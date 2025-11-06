@@ -1,0 +1,3826 @@
+index,code,name,en_name
+1,10993,浚仪,Junyi
+2,10993,浚仪,Junyi
+3,11026,京畿路,Jingji Lu
+4,11027,开封府,Kaifeng Fu
+5,11027,开封府,Kaifeng Fu
+6,11032,雍邱,Yongqiu
+7,11032,雍邱,Yongqiu
+8,11123,澶州,Shan Zhou
+9,11140,京东路,Jingdong Lu
+10,11141,京东东路,Jingdongdong Lu
+11,11142,青州,Qing Zhou
+12,11143,益都,Yidu
+13,11146,临朐,Linqu
+14,11147,博兴,Boxing
+15,11148,千乘,Qiancheng
+16,11149,临淄,Linzi
+17,11151,密州,Mi Zhou
+18,11152,诸城,Zhucheng
+19,11153,胶西,Jiaoxi
+20,11154,安邱,Anqiu
+21,11155,莒县,Ju Xian
+22,11161,沂州,Yi Zhou
+23,11162,临沂,Linyi
+24,11163,承县,Cheng Xian
+25,11164,沂水,Yishui
+26,11165,费县,Fei Xian
+27,11166,新泰,Xintai
+28,11167,登州,Deng Zhou
+29,11168,蓬莱,Penglai
+30,11169,黄县,Huang Xian
+31,11170,牟平,Mouping
+32,11171,文登,Wendeng
+33,11172,莱州,Lai Zhou
+34,11173,掖县,Ye Xian
+35,11174,莱阳,Laiyang
+36,11175,胶水,Jiaoshui
+37,11176,即墨,Jimo
+38,11177,潍州,Wei Zhou
+39,11179,昌邑,Changyi
+40,11180,昌乐,Changle
+41,11181,淄州,Zi Zhou
+42,11182,淄川,Zichuan
+43,11183,长山,Changshan
+44,11184,邹平,Zouping
+45,11187,淮阳军,Huaiyang Jun
+46,11191,济南府,Ji'nan Fu
+47,11192,历城,Licheng
+48,11193,禹城,Yucheng
+49,11194,长清,Changqing
+50,11195,临邑,Linyi
+51,11198,临济,Linji
+52,11199,宣化军,Xuanhua Jun
+53,11201,清平军,Qingping Jun
+54,11202,章邱,Zhangqiu
+55,11202,章邱,Zhangqiu
+56,11203,京东西路,Jingdongxi Lu
+57,11205,东平府,Dongping Fu
+58,11206,须城,Xucheng
+59,11207,阳谷,Yanggu
+60,11208,中都,Zhongdu
+61,11209,东阿,Dong'e
+62,11210,寿张,Shouzhang
+63,11211,平阴,Pingyin
+64,11212,宋州,Song Zhou
+65,11214,宋城,Songcheng
+66,11221,谷熟,Gushu
+67,11222,下邑,Xiayi
+68,11223,虞城,Yucheng
+69,11228,袭庆府,Xiqing Fu
+70,11229,瑕邱,Xiaqiu
+71,11230,瑕县,Xia Xian
+72,11231,干封,Qianfeng
+73,11232,奉符,Fengfu
+74,11233,泗水,Sishui
+75,11234,龚邱,Gongqiu
+76,11235,龚县,Gong Xian
+77,11236,曲阜,Qufu
+78,11239,莱芜,Laiwu
+79,11242,徐州,Xu Zhou
+80,11243,彭城,Pengcheng
+81,11244,沛县,Pei Xian
+82,11245,萧县,Xiao Xian
+83,11246,滕县,Teng Xian
+84,11247,丰县,Feng Xian
+85,11250,兴仁府,Xingren Fu
+86,11255,宛句,Wanju
+87,11255,宛句,Wanju
+88,11256,宛亭,Wanting
+89,11256,宛亭,Wanting
+90,11262,济州,Ji Zhou
+91,11263,巨野,Juye
+92,11264,任城,Rencheng
+93,11265,金乡,Jinxiang
+94,11266,郓城,Yuncheng
+95,11267,单州,Shan Zhou
+96,11268,单父,Shanfu
+97,11269,砀山,Dangshan
+98,11270,成武,Chengwu
+99,11271,鱼台,Yutai
+100,11272,濮州,Pu Zhou
+101,11273,鄄城,Juancheng
+102,11274,雷泽,Leize
+103,11275,临濮,Linpu
+104,11276,范县,Fan Xian
+105,11287,京西路,Jingxi Lu
+106,11288,安州,An Zhou
+107,11295,襄阳府路,Xiangyangfu Lu
+108,11296,京西南路,Jingxi'nan Lu
+109,11297,襄州,Xiang Zhou
+110,11298,襄阳府,Xiangyang Fu
+111,11298,襄阳府,Xiangyang Fu
+112,11299,襄阳,Xiangyang
+113,11299,襄阳,Xiangyang
+114,11299,襄阳,Xiangyang
+115,11301,邓城,Dengcheng
+116,11301,邓城,Dengcheng
+117,11301,邓城,Dengcheng
+118,11305,宜城,Yicheng
+119,11305,宜城,Yicheng
+120,11305,宜城,Yicheng
+121,11306,中庐,Zhonglu
+122,11306,中庐,Zhonglu
+123,11306,中庐,Zhonglu
+124,11308,南漳,Nanzhang
+125,11309,乐乡,Lexiang
+126,11310,邓州,Deng Zhou
+127,11311,穰县,Rang Xian
+128,11314,内乡,Neixiang
+129,11315,淅川,Xichuan
+130,11316,顺阳,Shunyang
+131,11321,唐城,Tangcheng
+132,11333,淯阳,Yuyang
+133,11333,淯阳,Yuyang
+134,11335,房州,Fang Zhou
+135,11340,永清,Yongqing
+136,11341,上庸,Shangyong
+137,11342,均州,Jun Zhou
+138,11343,武当,Wudang
+139,11346,丰利,Fengli
+140,11347,郢州,Ying Zhou
+141,11348,长寿,Changshou
+142,11349,京山,Jingshan
+143,11350,富水,Fushui
+144,11351,唐州,Tang Zhou
+145,11352,泌阳,Biyang
+146,11353,湖阳,Huyang
+147,11354,比阳,Piyang
+148,11355,桐柏,Tongbai
+149,11361,通化军,Tonghua Jun
+150,11366,枣阳军,Zaoyang Jun
+151,11371,京西北路,Jingxibei Lu
+152,11372,河南府,He'nan Fu
+153,11377,永安,Yong'an
+154,11381,巩县,Gong Xian
+155,11382,登封,Dengfeng
+156,11385,颖阳,Yingyang
+157,11388,新安,Xin'an
+158,11389,渑池,Mianchi
+159,11390,永宁,Yongning
+160,11391,长水,Changshui
+161,11399,伊阙,Yique
+162,11400,河清,Heqing
+163,11401,缑氏,Goushi
+164,11403,许州,Xu Zhou
+165,11403,许州,Xu Zhou
+166,11428,临颖,Linying
+167,11428,临颖,Linying
+168,11450,荣阳,Rongyang
+169,11450,荣阳,Rongyang
+170,11465,荣泽,Rongze
+171,11465,荣泽,Rongze
+172,11471,灵河,Linghe
+173,11477,孟州,Meng Zhou
+174,11478,河阳,Heyang
+175,11479,温县,Wen Xian
+176,11480,济源,Jiyuan
+177,11483,河阴,Heyin
+178,11485,蔡州,Cai Zhou
+179,11486,汝阳,Ruyang
+180,11487,上蔡,Shangcai
+181,11488,新蔡,Xincai
+182,11489,褒信,Baoxin
+183,11490,平舆,Pingyu
+184,11491,遂平,Suiping
+185,11492,新息,Xinxi
+186,11493,郎山,Langshan
+187,11494,确山,Queshan
+188,11495,真阳,Zhenyang
+189,11496,西平,Xiping
+190,11499,淮宁府,Huaining Fu
+191,11501,宛邱,Wanqiu
+192,11501,宛邱,Wanqiu
+193,11513,顺昌府,Shunchang Fu
+194,11517,万寿,Wanshou
+195,11518,颍上,Yingshang
+196,11519,沈丘,Shenqiu
+197,11520,汝州,Ru Zhou
+198,11521,梁县,Liang Xian
+199,11522,襄城,Xiangcheng
+200,11523,叶县,Ye Xian
+201,11529,宝丰,Baofeng
+202,11530,申州,Shen Zhou
+203,11531,义阳军,Yiyang Jun
+204,11537,钟山,Zhongshan
+205,11538,河北道,Hebei Dao
+206,11539,河北路,Hebei Lu
+207,11543,满城,Mancheng
+208,11543,满城,Mancheng
+209,11546,河北东路,Hebeidong Lu
+210,11547,魏州,Wei Zhou
+211,11551,元城,Yuancheng
+212,11552,莘县,Shen Xian
+213,11556,内黄,Neihuang
+214,11559,洹水,Yuanshui
+215,11560,魏县,Wei Xian
+216,11561,馆陶,Guantao
+217,11562,临清,Linqing
+218,11563,永济,Yongji
+219,11564,宗城,Zongcheng
+220,11565,夏津,Xiajin
+221,11566,清平,Qingping
+222,11568,冠氏,Guanshi
+223,11569,经城,Jingcheng
+224,11570,澶州,Shan Zhou
+225,11574,濮阳,Puyang
+226,11578,观城,Guancheng
+227,11584,清丰,Qingfeng
+228,11593,朝城,Chaocheng
+229,11593,朝城,Chaocheng
+230,11593,朝城,Chaocheng
+231,11596,沧州,Cang Zhou
+232,11599,无棣,Wudi
+233,11600,盐山,Yanshan
+234,11601,乐陵,Leling
+235,11604,饶安,Rao'an
+236,11605,长芦,Changlu
+237,11606,临津,Linjin
+238,11609,冀州,Ji Zhou
+239,11612,蓨县,Xiu Xian
+240,11615,新河,Xinhe
+241,11618,武邑,Wuyi
+242,11619,衡水,Hengshui
+243,11620,堂阳,Tangyang
+244,11623,河间府,Hejian Fu
+245,11624,河间,Hejian
+246,11629,景城,Jingcheng
+247,11632,博州,Bo Zhou
+248,11633,聊城,Liaocheng
+249,11634,高唐,Gaotang
+250,11635,堂邑,Tangyi
+251,11636,博平,Boping
+252,11637,棣州,Di Zhou
+253,11638,厌次,Yanci
+254,11639,商河,Shanghe
+255,11640,阳信,Yangxin
+256,11641,莫州,Mo Zhou
+257,11643,任邱,Renqiu
+258,11644,莫县,Mo Xian
+259,11645,长丰,Changfeng
+260,11646,雄州,Xiong Zhou
+261,11647,雄州,Xiong Zhou
+262,11648,归信,Guixin
+263,11650,霸州,Ba Zhou
+264,11654,大城,Dacheng
+265,11655,德州,De Zhou
+266,11658,德平,Deping
+267,11659,平原,Pingyuan
+268,11660,将陵,Jiangling
+269,11661,安陵,Anling
+270,11662,滨州,Bin Zhou
+271,11665,蒲台,Putai
+272,11668,滨州海岸海水,Binzhou Coastal Waters
+273,11669,贝州,Bei Zhou
+274,11671,清河,Qinghe
+275,11672,武城,Wucheng
+276,11673,历亭,Liting
+277,11674,漳南,Zhangnan
+278,11675,清阳,Qingyang
+279,11676,定远军,Dingyuan Jun
+280,11680,将陵,Jiangling
+281,11684,清州,Qing Zhou
+282,11690,Polu Jun,Polu Jun
+283,11692,Polu Jun,Polu Jun
+284,11694,平戎军,Pingrong Jun
+285,11698,保定,Baoding
+286,11699,德清军,Deqing Jun
+287,11700,德清军,Deqing Jun
+288,11701,保顺军,Baoshun Jun
+289,11702,保顺军,Baoshun Jun
+290,11703,河北西路,Hebeixi Lu
+291,11704,真定府,Zhending Fu
+292,11705,真定,Zhending
+293,11706,槁城,Gaocheng
+294,11707,栾城,Luancheng
+295,11708,元氏,Yuanshi
+296,11711,井陉,Jingxing
+297,11721,石邑,Shiyi
+298,11722,九门,Jiumen
+299,11724,相州,Xiang Zhou
+300,11725,安阳,Anyang
+301,11726,荡阴,Tangyin
+302,11727,临漳,Linzhang
+303,11728,林虑,Linlu
+304,11729,永定,Yongding
+305,11730,永和,Yonghe
+306,11731,邺县,Ye Xian
+307,11733,中山州,Zhongshan Zhou
+308,11734,安喜,Anxi
+309,11736,曲阳,Quyang
+310,11737,唐县,Tang Xian
+311,11738,望都,Wangdu
+312,11739,新乐,Xinle
+313,11740,北平,Beiping
+314,11743,陉邑,Xingyi
+315,11745,信德府,Xinde Fu
+316,11746,龙冈,Longgang
+317,11747,邢台,Xingtai
+318,11748,沙河,Shahe
+319,11754,内邱,Neiqiu
+320,11761,怀州,Huai Zhou
+321,11762,河内,Henei
+322,11763,武德,Wude
+323,11769,卫州,Wei Zhou
+324,11775,共城,Gongcheng
+325,11780,洺州,Ming Zhou
+326,11781,永年,Yongnian
+327,11782,肥乡,Feixiang
+328,11783,平恩,Ping'en
+329,11786,曲周,Quzhou
+330,11788,临洺,Linming
+331,11789,深州,Shen Zhou
+332,11792,静安,Jing'an
+333,11794,安平,Anping
+334,11795,饶阳,Raoyang
+335,11796,武强,Wuqiang
+336,11798,陆泽,Luze
+337,11799,磁州,Ci Zhou
+338,11800,釜阳,Fuyang
+339,11801,邯郸,Handan
+340,11802,武安,Wu'an
+341,11803,昭义,Zhaoyi
+342,11804,昭德,Zhaode
+343,11805,祁州,Qi Zhou
+344,11813,庆源府,Qingyuan Fu
+345,11814,平棘,Pingji
+346,11815,宁晋,Ningjin
+347,11818,昭庆,Zhaoqing
+348,11819,隆平,Longping
+349,11826,保塞州,Baosai Zhou
+350,11827,保军,Bao Jun
+351,11830,宝塞,Baosai
+352,11831,静戎军,Jingrong Jun
+353,11833,安肃,Ansu
+354,11834,宁边军,Ningbian Jun
+355,11835,永定军,Yongding Jun
+356,11838,威勇军,Weiyong Jun
+357,11845,高阳,Gaoyang
+358,11845,高阳,Gaoyang
+359,11847,安利军,Anli Jun
+360,11850,濬州,Jun Zhou
+361,11855,静安军,Jing'an Jun
+362,11857,燕山府路,Yanshanfu Lu
+363,11858,燕山府,Yanshan Fu
+364,11859,析津,Xijin
+365,11860,宛平,Wanping
+366,11861,昌平,Changping
+367,11862,良乡,Liangxiang
+368,11863,潞县,Lu Xian
+369,11864,安次,Anci
+370,11866,武清,Wuqing
+371,11867,香河,Xianghe
+372,11868,玉河,Yuhe
+373,11869,漷阴,Huoyin
+374,11870,广宁,Guangning
+375,11871,涿州,Zhuo Zhou
+376,11872,范阳,Fanyang
+377,11873,归义,Guiyi
+378,11874,固安,Gu'an
+379,11875,新城,Xincheng
+380,11876,檀州,Tan Zhou
+381,11877,密云,Miyun
+382,11878,行唐,Xingtang
+383,11879,平州,Ping Zhou
+384,11880,卢龙,Lulong
+385,11881,石城,Shicheng
+386,11882,马城,Macheng
+387,11883,平州海岸海水,Pingzhou Coastal Waters
+388,11884,易州,Yi Zhou
+389,11884,易州,Yi Zhou
+390,11885,易水,Yishui
+391,11885,易水,Yishui
+392,11888,营州,Ying Zhou
+393,11889,柳城,Liucheng
+394,11890,顺州,Shun Zhou
+395,11891,怀柔,Huairou
+396,11892,蓟州,Ji Zhou
+397,11893,鱼阳,Yuyang
+398,11894,三河,Sanhe
+399,11895,玉田,Yutian
+400,11896,景州,Jing Zhou
+401,11897,遵化,Zunhua
+402,11898,陕西路,Shaanxi Lu
+403,11899,灵州,Ling Zhou
+404,11900,回乐,Huile
+405,11901,永兴路,Yongxing Lu
+406,11902,京兆府,Jingzhao Fu
+407,11903,长安,Chang'an
+408,11904,万年,Wannian
+409,11905,樊川,Fanchuan
+410,11906,鄠县,Hu Xian
+411,11907,蓝田,Lantian
+412,11908,咸阳,Xianyang
+413,11910,泾阳,Jingyang
+414,11911,栎阳,Liyang
+415,11912,高陵,Gaoling
+416,11913,兴平,Xingping
+417,11914,昭应,Zhaoying
+418,11915,临潼,Lintong
+419,11917,干祐,Qianyou
+420,11919,终南,Zhongnan
+421,11921,河中府,Hezhong Fu
+422,11924,永乐,Yongle
+423,11925,临晋,Linjin
+424,11926,猗氏,Yishi
+425,11927,虞乡,Yuxiang
+426,11928,万泉,Wanquan
+427,11929,龙门,Longmen
+428,11930,宝鼎,Baoding
+429,11931,荣河,Ronghe
+430,11934,陕州,Shan Zhou
+431,11935,陜县,Shan Xian
+432,11936,陜县,Shan Xian
+433,11937,平陆,Pinglu
+434,11938,夏县,Xia Xian
+435,11939,灵宝,Lingbao
+436,11940,芮城,Ruicheng
+437,11946,延安府,Yan'an Fu
+438,11950,丰林,Fenglin
+439,11951,金明,Jinming
+440,11954,延水,Yanshui
+441,11955,延长,Yanchang
+442,11956,门山,Menshan
+443,11957,临真,Linzhen
+444,11958,敷政,Fuzheng
+445,11959,甘泉,Ganquan
+446,11962,同州,Tong Zhou
+447,11963,冯翊,Fengyi
+448,11964,澄城,Chengcheng
+449,11965,朝邑,Chaoyi
+450,11966,郃阳,Heyang
+451,11967,夏阳,Xiayang
+452,11968,白水,Baishui
+453,11969,韩城,Hancheng
+454,11972,华州,Hua Zhou
+455,11975,下邽,Xiagui
+456,11977,华阴,Huayin
+457,11979,渭南,Weinan
+458,11980,耀州,Yao Zhou
+459,11981,华原,Huayuan
+460,11982,富平,Fuping
+461,11983,三原,Sanyuan
+462,11984,云阳,Yunyang
+463,11985,同官,Tongguan
+464,11986,美原,Meiyuan
+465,11988,邠州,Bin Zhou
+466,11989,新平,Xinping
+467,11990,宜禄,Yilu
+468,11991,三水,Sanshui
+469,11997,鄜州,Fu Zhou
+470,11998,洛交,Luojiao
+471,11999,洛川,Luochuan
+472,12000,鄜城,Fucheng
+473,12001,直罗,Zhiluo
+474,12002,三川,Sanchuan
+475,12003,解州,Jie Zhou
+476,12004,解县,Jie Xian
+477,12005,闻喜,Wenxi
+478,12006,安邑,Anyi
+479,12008,庆阳府,Qingyang Fu
+480,12009,顺化,Shunhua
+481,12011,合水,Heshui
+482,12013,同川,Tongchuan
+483,12014,乐蟠,Lepan
+484,12015,华池,Huachi
+485,12016,虢州,Guo Zhou
+486,12017,常农,Changnong
+487,12018,虢略,Guolue
+488,12021,栾川,Luanchuan
+489,12027,玉城,Yucheng
+490,12028,商州,Shang Zhou
+491,12029,上洛,Shangluo
+492,12030,商洛,Shangluo
+493,12031,洛南,Luonan
+494,12032,丰阳,Fengyang
+495,12034,宁州,Ning Zhou
+496,12037,襄乐,Xiangle
+497,12038,真宁,Zhenning
+498,12040,丰义,Fengyi
+499,12042,坊州,Fang Zhou
+500,12043,中部,Zhongbu
+501,12044,宜君,Yijun
+502,12045,升平,Shengping
+503,12046,丹州,Dan Zhou
+504,12047,义川,Yichuan
+505,12048,宜川,Yichuan
+506,12049,咸宁,Xianning
+507,12050,汾川,Fenchuan
+508,12051,云岩,Yunyan
+509,12054,通远,Tongyuan
+510,12054,通远,Tongyuan
+511,12055,保安军,Bao'an Jun
+512,12057,干州,Qian Zhou
+513,12061,醴州,Li Zhou
+514,12072,义合寨,Yihe Zhai
+515,12072,义合寨,Yihe Zhai
+516,12073,浮图寨,Futu Zhai
+517,12073,浮图寨,Futu Zhai
+518,12074,克戎寨,Kerong Zhai
+519,12074,克戎寨,Kerong Zhai
+520,12075,怀宁寨,Huaining Zhai
+521,12075,怀宁寨,Huaining Zhai
+522,12076,顺安寨,Shun'an Zhai
+523,12076,顺安寨,Shun'an Zhai
+524,12077,绥平寨,Suiping Zhai
+525,12077,绥平寨,Suiping Zhai
+526,12078,暖泉寨,Nuanquan Zhai
+527,12078,暖泉寨,Nuanquan Zhai
+528,12079,开光堡,Kaiguang Bao
+529,12079,开光堡,Kaiguang Bao
+530,12080,临夏寨,Linxia Zhai
+531,12080,临夏寨,Linxia Zhai
+532,12081,永宁关,Yongning Guan
+533,12081,永宁关,Yongning Guan
+534,12082,白草寨,Baicao Zhai
+535,12082,白草寨,Baicao Zhai
+536,12085,银川城,Yinchuan Cheng
+537,12086,银川城,Yinchuan Cheng
+538,12087,银川城,Yinchuan Cheng
+539,12088,定边军,Dingbian Jun
+540,12089,定边军,Dingbian Jun
+541,12090,定边,Dingbian
+542,12091,秦凤路,Qinfeng Lu
+543,12092,凤翔府,Fengxiang Fu
+544,12093,天兴,Tianxing
+545,12095,扶风,Fufeng
+546,12096,盩厔,Zhouzhi
+547,12097,郿县,Mei Xian
+548,12098,宝鸡,Baoji
+549,12099,虢县,Guo Xian
+550,12100,麟游,Linyou
+551,12101,普润,Purun
+552,12105,秦州,Qin Zhou
+553,12110,陇城,Longcheng
+554,12111,清水,Qingshui
+555,12112,伏羌城,Fuqiang Cheng
+556,12113,甘谷城,Gangu Cheng
+557,12114,堡川城,Baochuan Cheng
+558,12117,泾州,Jing Zhou
+559,12123,灵台,Lingtai
+560,12124,良原,Liangyuan
+561,12130,陇州,Long Zhou
+562,12131,汧源,Qianyuan
+563,12134,吴山,Wushan
+564,12135,陇安,Long'an
+565,12139,南天水,Nan Tianshui
+566,12139,南天水,Nan Tianshui
+567,12140,北天水,Bei Tianshui
+568,12140,北天水,Bei Tianshui
+569,12145,岷州,Min Zhou
+570,12146,岷州,Min Zhou
+571,12150,渭州,Wei Zhou
+572,12153,潘原,Panyuan
+573,12157,原州,Yuan Zhou
+574,12158,临泾,Linjing
+575,12160,平高,Pinggao
+576,12164,河州,He Zhou
+577,12165,抱罕,Baohan
+578,12166,河州,He Zhou
+579,12167,河县,He Xian
+580,12168,兰州,Lan Zhou
+581,12169,兰州,Lan Zhou
+582,12170,兰泉,Lanquan
+583,12171,镇戎军,Zhenrong Jun
+584,12172,镇戎军,Zhenrong Jun
+585,12173,德顺军,Deshun Jun
+586,12174,德顺军,Deshun Jun
+587,12175,陇干,Longgan
+588,12177,巩州,Gong Zhou
+589,12181,陇西,Longxi
+590,12181,陇西,Longxi
+591,12182,永宁,Yongning
+592,12182,永宁,Yongning
+593,12183,宁远,Ningyuan
+594,12183,宁远,Ningyuan
+595,12184,西宁州,Xining Zhou
+596,12185,西宁州,Xining Zhou
+597,12186,积石州,Jishi Zhou
+598,12188,洮州,Tao Zhou
+599,12189,洮州,Tao Zhou
+600,12190,廓州,Kuo Zhou
+601,12191,廓州,Kuo Zhou
+602,12197,震武军,Zhenwu Jun
+603,12198,震武军,Zhenwu Jun
+604,12199,崇信军,Chongxin Jun
+605,12200,崇信军,Chongxin Jun
+606,12201,义州,Yi Zhou
+607,12207,会州,Hui Zhou
+608,12208,会州,Hui Zhou
+609,12209,敷川,Fuchuan
+610,12210,怀德军,Huaide Jun
+611,12211,怀德军,Huaide Jun
+612,12212,西安州,Xi'an Zhou
+613,12213,西安州,Xi'an Zhou
+614,12214,河东路,Hedong Lu
+615,12215,并州,Bing Zhou
+616,12217,阳曲,Yangqu
+617,12220,太谷,Taigu
+618,12221,榆次,Yuci
+619,12222,寿阳,Shouyang
+620,12223,盂县,Yu Xian
+621,12225,文水,Wenshui
+622,12226,祁县,Qi Xian
+623,12227,清源,Qingyuan
+624,12228,广阳军,Guangyang Jun
+625,12231,隆德府,Longde Fu
+626,12232,上党,Shangdang
+627,12233,屯留,Tunliu
+628,12234,襄垣,Xiangyuan
+629,12237,黎城,Licheng
+630,12239,壶关,Huguan
+631,12240,长子,Zhangzi
+632,12243,铜鞮,Tongdi
+633,12246,平阳府,Pingyang Fu
+634,12247,临汾,Linfen
+635,12248,洪洞,Hongtong
+636,12250,襄陵,Xiangling
+637,12251,神山,Shenshan
+638,12254,汾西,Fenxi
+639,12255,霍邑,Huoyi
+640,12256,冀氏,Jishi
+641,12259,岳阳,Yueyang
+642,12260,府州,Fu Zhou
+643,12263,麟州,Lin Zhou
+644,12264,新秦,Xinqin
+645,12265,银城,Yincheng
+646,12266,连谷,Liangu
+647,12267,绛州,Jiang Zhou
+648,12268,正平,Zhengping
+649,12269,曲沃,Quwo
+650,12272,翼城,Yicheng
+651,12275,绛县,Jiang Xian
+652,12276,垣曲,Yuanqu
+653,12277,代州,Dai Zhou
+654,12278,鴈门,Yanmen
+655,12279,崞县,Guo Xian
+656,12280,五台,Wutai
+657,12281,繁畤,Fanshi
+658,12282,唐林,Tanglin
+659,12283,隰州,Xi Zhou
+660,12284,隰川,Xichuan
+661,12285,温泉,Wenquan
+662,12286,蒲县,Pu Xian
+663,12287,大宁,Daning
+664,12288,石楼,Shilou
+665,12289,永和,Yonghe
+666,12291,忻州,Xin Zhou
+667,12296,汾州,Fen Zhou
+668,12297,西河,Xihe
+669,12298,平遥,Pingyao
+670,12299,介休,Jiexiu
+671,12304,泽州,Ze Zhou
+672,12305,晋城,Jincheng
+673,12306,高平,Gaoping
+674,12307,阳城,Yangcheng
+675,12308,端氏,Duanshi
+676,12309,陵川,Lingchuan
+677,12310,沁水,Qinshui
+678,12316,天池,Tianchi
+679,12317,元池,Yuanchi
+680,12318,岚州,Lan Zhou
+681,12319,宜芳,Yifang
+682,12322,楼烦,Loufan
+683,12322,楼烦,Loufan
+684,12325,宁化,Ninghua
+685,12326,石州,Shi Zhou
+686,12327,离石,Lishi
+687,12328,平夷,Pingyi
+688,12333,方山,Fangshan
+689,12343,丰州,Feng Zhou
+690,12344,丰州,Feng Zhou
+691,12345,威胜军,Weisheng Jun
+692,12351,平定军,Pingding Jun
+693,12352,平定军,Pingding Jun
+694,12353,平定,Pingding
+695,12357,岢岚军,Kelan Jun
+696,12359,岢岚军,Kelan Jun
+697,12361,宁化军,Ninghua Jun
+698,12362,宁化军,Ninghua Jun
+699,12363,火山军,Huoshan Jun
+700,12364,火山军,Huoshan Jun
+701,12365,定羌军,Dingqiang Jun
+702,12367,定羌军,Dingqiang Jun
+703,12373,乡宁,Xiangning
+704,12374,文城,Wencheng
+705,12375,平晋军,Pingjin Jun
+706,12376,平晋军,Pingjin Jun
+707,12377,沁州,Qin Zhou
+708,12382,交城监,Jiaocheng Jian
+709,12386,庆祚军,Qingzuo Jun
+710,12387,庆祚军,Qingzuo Jun
+711,12388,静乐军,Jingle Jun
+712,12389,静乐军,Jingle Jun
+713,12390,晋宁军,Jinning Jun
+714,12393,云中路,Yunzhong Lu
+715,12394,云中府,Yunzhong Fu
+716,12395,大同,Datong
+717,12396,云中,Yunzhong
+718,12397,天成,Tiancheng
+719,12398,长青,Changqing
+720,12399,奉义,Fengyi
+721,12400,怀仁,Huairen
+722,12401,怀安,Huai'an
+723,12402,武州,Wu Zhou
+724,12403,武州,Wu Zhou
+725,12404,神武,Shenwu
+726,12405,应州,Ying Zhou
+727,12406,金城,Jincheng
+728,12407,浑源,Hunyuan
+729,12408,河阴,Heyin
+730,12409,朔州,Shuo Zhou
+731,12410,鄯阳,Shanyang
+732,12411,宁远,Ningyuan
+733,12412,马邑,Mayi
+734,12413,蔚州,Yu Zhou
+735,12414,灵仙,Lingxian
+736,12416,飞狐,Feihu
+737,12417,灵丘,Lingqiu
+738,12418,广陵,Guangling
+739,12419,奉圣州,Fengsheng Zhou
+740,12420,永兴,Yongxing
+741,12421,矾山,Fanshan
+742,12422,龙门,Longmen
+743,12423,望云,Wangyun
+744,12424,归化州,Guihua Zhou
+745,12425,归化州,Guihua Zhou
+746,12426,文德,Wende
+747,12427,儒州,Ru Zhou
+748,12428,儒州,Ru Zhou
+749,12429,缙山,Jinshan
+750,12430,妫州,Gui Zhou
+751,12431,怀来,Huailai
+752,12432,淮南路,Huainan Lu
+753,12433,淮南东路,Huainandong Lu
+754,12434,扬州,Yang Zhou
+755,12435,江都,Jiangdu
+756,12441,广陵,Guangling
+757,12443,泰兴,Taixing
+758,12446,亳州,Bo Zhou
+759,12447,谯县,Qiao Xian
+760,12448,城父,Chengfu
+761,12449,蒙城,Mengcheng
+762,12450,酂县,Zan Xian
+763,12451,永城,Yongcheng
+764,12452,真源,Zhenyuan
+765,12454,鹿邑,Luyi
+766,12456,宿州,Su Zhou
+767,12457,符离,Fuli
+768,12458,蕲县,Qi Xian
+769,12463,零壁,Lingbi
+770,12464,灵璧,Lingbi
+771,12465,楚州,Chu Zhou
+772,12466,山阳,Shanyang
+773,12472,淮阴,Huaiyin
+774,12474,楚州海岸海水,Chuzhou Coastal Waters
+775,12479,西海州,Xihai Zhou
+776,12500,海州海岸海水,Haizhou Coastal Waters
+777,12501,泰州,Tai Zhou
+778,12508,泰兴,Taixing
+779,12508,泰兴,Taixing
+780,12509,如皋,Rugao
+781,12511,泰州海岸海水,Taizhou Coastal Waters
+782,12512,泗州,Si Zhou
+783,12515,临淮,Linhuai
+784,12516,淮平,Huaiping
+785,12520,宿迁,Suqian
+786,12523,徐城,Xucheng
+787,12524,滁州,Chu Zhou
+788,12532,全椒,Quanjiao
+789,12533,建安军,Jian'an Jun
+790,12535,建安军,Jian'an Jun
+791,12537,扬子,Yangzi
+792,12540,崇州,Chong Zhou
+793,12542,静海,Jinghai
+794,12547,承州,Cheng Zhou
+795,12553,兴化,Xinghua
+796,12553,兴化,Xinghua
+797,12557,安东州,Andong Zhou
+798,12563,宝应州,Baoying Zhou
+799,12572,盱贻军,Xuyi Jun
+800,12577,招信军,Zhaoxin Jun
+801,12580,淮安军,Huai'an Jun
+802,12582,淮安,Huai'an
+803,12583,淮安军,Huai'an Jun
+804,12584,五河,Wuhe
+805,12585,清河军,Qinghe Jun
+806,12586,清河,Qinghe
+807,12587,淮南西路,Huainanxi Lu
+808,12588,庐州,Lu Zhou
+809,12589,合肥,Hefei
+810,12590,慎县,Shen Xian
+811,12591,粱县,Liang Xian
+812,12592,舒城,Shucheng
+813,12595,寿州,Shou Zhou
+814,12598,安丰军,Anfeng Jun
+815,12599,寿春府,Shouchun Fu
+816,12603,安丰,Anfeng
+817,12603,安丰,Anfeng
+818,12603,安丰,Anfeng
+819,12604,霍丘,Huoqiu
+820,12605,寿春,Shouchun
+821,12606,盛唐,Shengtang
+822,12608,霍山,Huoshan
+823,12622,黄梅,Huangmei
+824,12623,和州,He Zhou
+825,12624,历阳,Liyang
+826,12625,含山,Hanshan
+827,12628,舒州,Shu Zhou
+828,12629,安庆府,Anqing Fu
+829,12630,怀宁,Huaining
+830,12631,桐城,Tongcheng
+831,12632,宿松,Susong
+832,12633,望江,Wangjiang
+833,12634,太湖,Taihu
+834,12635,濠州,Hao Zhou
+835,12636,钟离,Zhongli
+836,12637,定远,Dingyuan
+837,12642,蒋州,Jiang Zhou
+838,12644,定城,Dingcheng
+839,12645,固始,Gushi
+840,12647,其思,Qisi
+841,12649,仙居,Xianju
+842,12650,黄州,Huang Zhou
+843,12651,黄冈,Huanggang
+844,12652,黄陂,Huangpi
+845,12653,麻城,Macheng
+846,12654,无为军,Wuwei Jun
+847,12655,无为,Wuwei
+848,12660,镇巢军,Zhenchao Jun
+849,12661,镇巢军,Zhenchao Jun
+850,12666,怀远军,Huaiyuan Jun
+851,12667,荆山,Jingshan
+852,12668,两浙路,Liangzhe Lu
+853,12669,两浙西路,Liangzhexi Lu
+854,12671,临安府,Lin'an Fu
+855,12672,钱塘,Qiantang
+856,12673,钱江,Qianjiang
+857,12674,仁和,Renhe
+858,12675,余杭,Yuhang
+859,12677,富阳,Fuyang
+860,12678,于潜,Yuqian
+861,12679,新登,Xindeng
+862,12680,新城,Xincheng
+863,12681,盐官,Yanguan
+864,12682,横山,Hengshan
+865,12683,昌化,Changhua
+866,12684,昭德,Zhaode
+867,12685,南新,Nanxin
+868,12688,苏州,Su Zhou
+869,12690,吴县,Wu Xian
+870,12695,嘉定,Jiading
+871,12696,常熟,Changshu
+872,12697,润州,Run Zhou
+873,12699,镇江府城厢,Zhenjiang Fuchengxiang
+874,12700,江口镇,Jiangkou Zhen
+875,12704,丹阳,Danyang
+876,12705,延陵,Yanling
+877,12706,金坛,Jintan
+878,12708,嘉兴府,Jiaxing Fu
+879,12709,嘉兴,Jiaxing
+880,12710,华亭,Huating
+881,12711,海盐,Haiyan
+882,12712,崇德,Chongde
+883,12714,安吉州,Anji Zhou
+884,12715,乌程,Wucheng
+885,12716,归安,Gui'an
+886,12717,安吉,Anji
+887,12718,长兴,Changxing
+888,12719,德清,Deqing
+889,12721,常州,Chang Zhou
+890,12722,晋陵,Jinling
+891,12723,武进,Wujin
+892,12724,无锡,Wuxi
+893,12725,义兴,Yixing
+894,12726,宜兴,Yixing
+895,12730,睦州,Mu Zhou
+896,12732,建德府,Jiande Fu
+897,12733,建德,Jiande
+898,12734,清溪,Qingxi
+899,12735,淳化,Chunhua
+900,12736,淳安,Chun'an
+901,12738,分水,Fenshui
+902,12739,遂安,Sui'an
+903,12740,寿昌,Shouchang
+904,12741,衣锦军,Yijin Jun
+905,12742,顺化军,Shunhua Jun
+906,12743,安国,Anguo
+907,12753,两浙东路,Liangzhedong Lu
+908,12754,越州,Yue Zhou
+909,12756,山阴,Shanyin
+910,12757,会稽,Kuaiji
+911,12758,剡县,Yan Xian
+912,12759,嵊县,Sheng Xian
+913,12760,诸暨,Zhuji
+914,12761,余姚,Yuyao
+915,12762,上虞,Shangyu
+916,12763,萧山,Xiaoshan
+917,12764,新昌,Xinchang
+918,12765,义安,Yi'an
+919,12767,庆元府,Qingyuan Fu
+920,12770,奉化,Fenghua
+921,12770,奉化,Fenghua
+922,12771,慈溪,Cixi
+923,12771,慈溪,Cixi
+924,12776,象山,Xiangshan
+925,12776,象山,Xiangshan
+926,12777,昌国,Changguo
+927,12777,昌国,Changguo
+928,12779,瑞安府,Rui'an Fu
+929,12780,永嘉,Yongjia
+930,12781,平阳,Pingyang
+931,12782,瑞安,Rui'an
+932,12783,乐清,Leqing
+933,12784,婺州,Wu Zhou
+934,12785,金华,Jinhua
+935,12786,东阳,Dongyang
+936,12787,义乌,Yiwu
+937,12788,兰溪,Lanxi
+938,12789,永康,Yongkang
+939,12790,武义,Wuyi
+940,12791,浦江,Pujiang
+941,12792,台州,Tai Zhou
+942,12793,临海,Linhai
+943,12794,黄岩,Huangyan
+944,12795,宁海,Ninghai
+945,12796,天台,Tiantai
+946,12797,永安,Yong'an
+947,12798,仙居,Xianju
+948,12799,衢州,Qu Zhou
+949,12800,西安,Xi'an
+950,12801,江山,Jiangshan
+951,12802,礼贤,Lixian
+952,12803,龙游,Longyou
+953,12808,信安,Xin'an
+954,12809,开化,Kaihua
+955,12810,处州,Chu Zhou
+956,12811,丽水,Lishui
+957,12812,龙泉,Longquan
+958,12813,剑川,Jianchuan
+959,12817,白龙,Bailong
+960,12818,松阳,Songyang
+961,12819,遂昌,Suichang
+962,12820,缙云,Jinyun
+963,12821,青田,Qingtian
+964,12822,庆元,Qingyuan
+965,12823,江南路,Jiangnan Lu
+966,12824,江南东路,Jiangnandong Lu
+967,12826,升州,Sheng Zhou
+968,12828,建康府,Jiankang Fu
+969,12829,上元,Shangyuan
+970,12830,江宁,Jiangning
+971,12831,句容,Jurong
+972,12832,溧水,Lishui
+973,12833,溧阳,Liyang
+974,12840,宁国府,Ningguo Fu
+975,12841,宣城,Xuancheng
+976,12842,南陵,Nanling
+977,12843,泾县,Jing Xian
+978,12844,宁国,Ningguo
+979,12845,旌德,Jingde
+980,12846,太平,Taiping
+981,12850,歙州,She Zhou
+982,12852,歙县,She Xian
+983,12853,休宁,Xiuning
+984,12854,祁门,Qimen
+985,12855,婺源,Wuyuan
+986,12856,绩溪,Jixi
+987,12857,黟县,Yi Xian
+988,12868,池州,Chi Zhou
+989,12869,贵池,Guichi
+990,12872,建德,Jiande
+991,12873,石埭,Shidai
+992,12875,饶州,Rao Zhou
+993,12876,鄱阳,Poyang
+994,12879,浮梁,Fuliang
+995,12880,乐平,Leping
+996,12881,德兴,Dexing
+997,12882,安仁,Anren
+998,12883,信州,Xin Zhou
+999,12886,玉山,Yushan
+1000,12887,弋阳,Yiyang
+1001,12888,贵溪,Guixi
+1002,12889,铅山,Qianshan
+1003,12890,永丰,Yongfeng
+1004,12892,宝丰,Baofeng
+1005,12893,雄远军,Xiongyuan Jun
+1006,12894,平江军,Pingjiang Jun
+1007,12895,太平州,Taiping Zhou
+1008,12896,当涂,Dangtu
+1009,12899,南康军,Nankang Jun
+1010,12903,广德军,Guangde Jun
+1011,12906,建平,Jianping
+1012,12907,江南西路,Jiangnanxi Lu
+1013,12909,隆兴府,Longxing Fu
+1014,12913,进贤,Jinxian
+1015,12914,新建,Xinjian
+1016,12915,奉新,Fengxin
+1017,12916,丰城,Fengcheng
+1018,12917,分宁,Fenning
+1019,12918,武宁,Wuning
+1020,12919,靖安,Jing'an
+1021,12922,赣州,Gan Zhou
+1022,12925,虔化,Qianhua
+1023,12926,宁都,Ningdu
+1024,12927,兴国,Xingguo
+1025,12928,信丰,Xinfeng
+1026,12931,会昌,Huichang
+1027,12932,瑞金,Ruijin
+1028,12933,石城,Shicheng
+1029,12934,安远,Anyuan
+1030,12936,虔南,Qiannan
+1031,12941,吉州,Ji Zhou
+1032,12947,安福,Anfu
+1033,12948,太和,Taihe
+1034,12951,泉江,Quanjiang
+1035,12953,永新,Yongxin
+1036,12955,万安,Wan'an
+1037,12957,袁州,Yuan Zhou
+1038,12960,分宜,Fenyi
+1039,12961,萍乡,Pingxiang
+1040,12963,建城,Jiancheng
+1041,12966,抚州,Fu Zhou
+1042,12973,乐安,Le'an
+1043,12974,宜黄,Yihuang
+1044,12975,金谿,Jinxi
+1045,12979,瑞州,Rui Zhou
+1046,12984,新昌,Xinchang
+1047,12987,永兴军,Yongxing Jun
+1048,12992,南安军,Nan'an Jun
+1049,12996,南安,Nan'an
+1050,12997,临江军,Linjiang Jun
+1051,13001,建武军,Jianwu Jun
+1052,13004,新城,Xincheng
+1053,13007,广昌,Guangchang
+1054,13013,彭泽,Pengze
+1055,13013,彭泽,Pengze
+1056,13013,彭泽,Pengze
+1057,13013,彭泽,Pengze
+1058,13013,彭泽,Pengze
+1059,13013,彭泽,Pengze
+1060,13014,荆湖路,Jinghu Lu
+1061,13015,荆湖南路,Jinghu nan Lu
+1062,13016,潭州,Tan Zhou
+1063,13019,湘潭,Xiangtan
+1064,13020,善化,Shanhua
+1065,13023,安化,Anhua
+1066,13024,醴陵,Liling
+1067,13025,攸县,You Xian
+1068,13026,湘乡,Xiangxiang
+1069,13030,浏阳,Liuyang
+1070,13032,宁乡,Ningxiang
+1071,13033,衡州,Heng Zhou
+1072,13038,耒阳,Leiyang
+1073,13039,常宁,Changning
+1074,13040,安仁,Anren
+1075,13042,道州,Dao Zhou
+1076,13043,弘道,Hongdao
+1077,13047,永明,Yongming
+1078,13048,江华,Jianghua
+1079,13049,延唐,Yantang
+1080,13050,宁远,Ningyuan
+1081,13051,大历,Dali
+1082,13052,永州,Yong Zhou
+1083,13056,祁阳,Qiyang
+1084,13057,东安,Dong'an
+1085,13058,郴州,Chen Zhou
+1086,13060,彬县,Chen Xian
+1087,13062,兴宁,Xingning
+1088,13063,郴义,Chenyi
+1089,13066,义章,Yizhang
+1090,13067,宜章,Yizhang
+1091,13068,高亭,Gaoting
+1092,13069,永兴,Yongxing
+1093,13070,桂东,Guidong
+1094,13073,宝庆府,Baoqing Fu
+1095,13074,邵阳,Shaoyang
+1096,13075,新化,Xinhua
+1097,13077,莳竹,Shizhu
+1098,13078,全州,Quan Zhou
+1099,13079,清湘,Qingxiang
+1100,13080,灌阳,Guanyang
+1101,13081,桂阳监,Guiyang Jian
+1102,13083,桂阳监,Guiyang Jian
+1103,13087,临武,Linwu
+1104,13088,茶陵军,Chaling Jun
+1105,13090,酃县,Ling Xian
+1106,13091,武冈军,Wugang Jun
+1107,13096,临冈,Lin'gang
+1108,13098,荆湖北路,Jinghu bei Lu
+1109,13099,江陵府,Jiangling Fu
+1110,13105,潜江,Qianjiang
+1111,13114,石首,Shishou
+1112,13115,石首,Shishou
+1113,13118,建宁,Jianning
+1114,13119,长林,Changlin
+1115,13123,鄂州,E Zhou
+1116,13124,江夏,Jiangxia
+1117,13125,临江,Linjiang
+1118,13134,蒲圻,Puqi
+1119,13135,永安,Yong'an
+1120,13135,永安,Yong'an
+1121,13139,嘉鱼,Jiayu
+1122,13140,永兴,Yongxing
+1123,13140,永兴,Yongxing
+1124,13141,大冶,Daye
+1125,13141,大冶,Daye
+1126,13144,安州,An Zhou
+1127,13159,汉川,Hanchuan
+1128,13160,吉阳,Jiyang
+1129,13161,朗州,Lang Zhou
+1130,13162,鼎州,Ding Zhou
+1131,13166,桃源,Taoyuan
+1132,13168,辰阳,Chenyang
+1133,13173,桥江,Qiaojiang
+1134,13175,澧州,Li Zhou
+1135,13176,澧阳,Liyang
+1136,13177,安乡,Anxiang
+1137,13178,石门,Shimen
+1138,13179,慈利,Cili
+1139,13180,峡州,Xia Zhou
+1140,13183,宜都,Yidu
+1141,13184,长阳,Changyang
+1142,13185,远安,Yuan'an
+1143,13186,巴山,Bashan
+1144,13192,华容,Huarong
+1145,13193,平江,Pingjiang
+1146,13194,王朝,Wangchao
+1147,13195,临湘,Linxiang
+1148,13197,湘阴,Xiangyin
+1149,13197,湘阴,Xiangyin
+1150,13197,湘阴,Xiangyin
+1151,13205,兴山,Xingshan
+1152,13205,兴山,Xingshan
+1153,13212,辰州,Chen Zhou
+1154,13213,沅陵,Yuanling
+1155,13214,叙浦,Xupu
+1156,13215,辰溪,Chenxi
+1157,13216,卢溪,Luxi
+1158,13217,麻阳,Mayang
+1159,13219,高江羁縻州,Gaojiang Jimizhou
+1160,13220,顺羁縻州,Shun Jimizhou
+1161,13221,保顺羁縻州,Baoshun Jimizhou
+1162,13222,富羁縻州,Fu Jimizhou
+1163,13223,永顺羁縻州,Yongshun Jimizhou
+1164,13224,渭羁縻州,Wei Jimizhou
+1165,13225,保静羁縻州,Baojing Jimizhou
+1166,13226,下溪羁縻州,Xiaxi Jimizhou
+1167,13227,溶羁縻州,Rong Jimizhou
+1168,13228,沅州,Yuan Zhou
+1169,13229,卢阳,Luyang
+1170,13230,麻阳,Mayang
+1171,13231,黔阳,Qianyang
+1172,13233,渠阳寨,Quyang Zhai
+1173,13236,渠阳军,Quyang Jun
+1174,13237,诚州,Cheng Zhou
+1175,13241,永平,Yongping
+1176,13248,通道,Tongdao
+1177,13250,荆门军,Jingmen Jun
+1178,13256,当阳,Dangyang
+1179,13257,信阳军,Xinyang Jun
+1180,13257,信阳军,Xinyang Jun
+1181,13257,信阳军,Xinyang Jun
+1182,13268,公安军,Gong'an Jun
+1183,13279,寿军,Shouchang Jun
+1184,13281,龙阳军,Longyang Jun
+1185,13283,西川路,Xichuan Lu
+1186,13284,益州路,Yizhou Lu
+1187,13285,成都府路,Chengdufu Lu
+1188,13289,益州,Yi Zhou
+1189,13291,成都,Chengdu
+1190,13291,成都,Chengdu
+1191,13292,华阳,Huayang
+1192,13292,华阳,Huayang
+1193,13293,郫县,Pi Xian
+1194,13293,郫县,Pi Xian
+1195,13294,双流,Shuangliu
+1196,13294,双流,Shuangliu
+1197,13295,温江,Wenjiang
+1198,13295,温江,Wenjiang
+1199,13296,新都,Xindu
+1200,13296,新都,Xindu
+1201,13297,新繁,Xinfan
+1202,13297,新繁,Xinfan
+1203,13300,灵池,Lingchi
+1204,13300,灵池,Lingchi
+1205,13301,灵泉,Lingquan
+1206,13301,灵泉,Lingquan
+1207,13302,犀浦,Xipu
+1208,13302,犀浦,Xipu
+1209,13303,眉州,Mei Zhou
+1210,13304,通义,Tongyi
+1211,13305,眉山,Meishan
+1212,13306,彭山,Pengshan
+1213,13307,丹棱,Danleng
+1214,13308,青神,Qingshen
+1215,13311,崇庆府,Chongqing Fu
+1216,13312,晋原,Jinyuan
+1217,13313,新津,Xinjin
+1218,13314,唐兴,Tangxing
+1219,13315,江原,Jiangyuan
+1220,13320,彭州,Peng Zhou
+1221,13322,唐昌,Tangchang
+1222,13323,永昌,Yongchang
+1223,13324,崇宁,Chongning
+1224,13325,蒙阳,Mengyang
+1225,13327,堋口,Pengkou
+1226,13328,绵州,Mian Zhou
+1227,13329,巴西,Baxi
+1228,13330,彰明,Zhangming
+1229,13331,魏城,Weicheng
+1230,13332,罗江,Luojiang
+1231,13337,盐泉,Yanquan
+1232,13340,西昌,Xichang
+1233,13341,汉州,Han Zhou
+1234,13342,雒县,Luo Xian
+1235,13343,什邡,Shifang
+1236,13344,绵竹,Mianzhu
+1237,13345,德阳,Deyang
+1238,13348,嘉定府,Jiading Fu
+1239,13349,龙游,Longyou
+1240,13351,夹江,Jiajiang
+1241,13352,峨眉,Emei
+1242,13353,犍为,Qianwei
+1243,13354,绥山,Suishan
+1244,13355,罗目,Luomu
+1245,13356,玉津,Yujin
+1246,13357,平羌,Pingqiang
+1247,13358,邛州,Qiong Zhou
+1248,13359,临邛,Linqiong
+1249,13360,依政,Yizheng
+1250,13361,安仁,Anren
+1251,13362,大邑,Dayi
+1252,13363,蒲江,Pujiang
+1253,13364,火井,Huojing
+1254,13365,临溪,Linxi
+1255,13366,黎州,Li Zhou
+1256,13367,汉源,Hanyuan
+1257,13368,通望,Tongwang
+1258,13369,两林邛部,Lianglin-Qiong Bu
+1259,13370,雅州,Ya Zhou
+1260,13371,严道,Yandao
+1261,13372,芦山,Lushan
+1262,13373,名山,Mingshan
+1263,13376,荣经,Yingjing
+1264,13377,西山野山部,Xishan-Yeshan Bu
+1265,13378,茂州,Mao Zhou
+1266,13379,汶山,Wenshan
+1267,13380,汶川,Wenchuan
+1268,13382,春祺城,Chunqi Cheng
+1269,13383,简州,Jian Zhou
+1270,13384,阳安,Yang'an
+1271,13385,平泉,Pingquan
+1272,13387,维州,Wei Zhou
+1273,13389,保宁,Baoning
+1274,13391,金川,Jinchuan
+1275,13393,陵州,Ling Zhou
+1276,13394,陵井监,Lingjing Jian
+1277,13395,仙井监,Xianjing Jian
+1278,13397,仁寿,Renshou
+1279,13398,井研,Jingyan
+1280,13403,始建,Shijian
+1281,13404,镇静军,Zhenjing Jun
+1282,13406,永康军,Yongkang Jun
+1283,13421,祺州,Qi Zhou
+1284,13422,春祺,Chunqi
+1285,13423,亨州,Heng Zhou
+1286,13424,嘉会,Jiahui
+1287,13425,梓州路,Zizhou Lu
+1288,13426,潼川府路,Tongchuanfu Lu
+1289,13427,梓州,Zi Zhou
+1290,13427,梓州,Zi Zhou
+1291,13429,郪县,Qi Xian
+1292,13429,郪县,Qi Xian
+1293,13430,元武,Yuanwu
+1294,13430,元武,Yuanwu
+1295,13431,中江,Zhongjiang
+1296,13431,中江,Zhongjiang
+1297,13432,涪城,Fucheng
+1298,13432,涪城,Fucheng
+1299,13433,射洪,Shehong
+1300,13433,射洪,Shehong
+1301,13434,盐亭,Yanting
+1302,13434,盐亭,Yanting
+1303,13435,通泉,Tongquan
+1304,13435,通泉,Tongquan
+1305,13436,飞乌,Feiwu
+1306,13436,飞乌,Feiwu
+1307,13437,铜山,Tongshan
+1308,13437,铜山,Tongshan
+1309,13438,东关,Dongguan
+1310,13438,东关,Dongguan
+1311,13441,安泰,Antai
+1312,13441,安泰,Antai
+1313,13443,遂州,Sui Zhou
+1314,13443,遂州,Sui Zhou
+1315,13445,方义,Fangyi
+1316,13445,方义,Fangyi
+1317,13446,小溪,Xiaoxi
+1318,13446,小溪,Xiaoxi
+1319,13449,长江,Changjiang
+1320,13449,长江,Changjiang
+1321,13455,顺庆府,Shunqing Fu
+1322,13456,南充,Nanchong
+1323,13456,南充,Nanchong
+1324,13459,西充,Xichong
+1325,13459,西充,Xichong
+1326,13460,相如,Xiangru
+1327,13460,相如,Xiangru
+1328,13462,资州,Zi Zhou
+1329,13462,资州,Zi Zhou
+1330,13465,资阳,Ziyang
+1331,13465,资阳,Ziyang
+1332,13466,龙水,Longshui
+1333,13466,龙水,Longshui
+1334,13467,内江,Neijiang
+1335,13467,内江,Neijiang
+1336,13468,银山,Yinshan
+1337,13468,银山,Yinshan
+1338,13469,月山,Yueshan
+1339,13469,月山,Yueshan
+1340,13470,丹山,Danshan
+1341,13470,丹山,Danshan
+1342,13471,清溪,Qingxi
+1343,13471,清溪,Qingxi
+1344,13472,普州,Pu Zhou
+1345,13472,普州,Pu Zhou
+1346,13473,安岳,Anyue
+1347,13473,安岳,Anyue
+1348,13474,普康,Pukang
+1349,13474,普康,Pukang
+1350,13475,安居,Anju
+1351,13475,安居,Anju
+1352,13477,崇龛,Chongkan
+1353,13477,崇龛,Chongkan
+1354,13479,昌州,Chang Zhou
+1355,13479,昌州,Chang Zhou
+1356,13480,大足,Dazu
+1357,13480,大足,Dazu
+1358,13481,昌元,Changyuan
+1359,13481,昌元,Changyuan
+1360,13482,永川,Yongchuan
+1361,13482,永川,Yongchuan
+1362,13484,江安州,Jiang'an Zhou
+1363,13487,江安,Jiang'an
+1364,13487,江安,Jiang'an
+1365,13488,合江,Hejiang
+1366,13488,合江,Hejiang
+1367,13489,泾南,Jingnan
+1368,13489,泾南,Jingnan
+1369,13490,乐共城,Legong Cheng
+1370,13490,乐共城,Legong Cheng
+1371,13491,纳溪,Naxi
+1372,13491,纳溪,Naxi
+1373,13492,绵水,Mianshui
+1374,13492,绵水,Mianshui
+1375,13493,九支城,Jiuzhi Cheng
+1376,13493,九支城,Jiuzhi Cheng
+1377,13494,武都城,Wudu Cheng
+1378,13494,武都城,Wudu Cheng
+1379,13495,淯井监,Yujing Jian
+1380,13495,淯井监,Yujing Jian
+1381,13496,富义,Fuyi
+1382,13496,富义,Fuyi
+1383,13502,合州,He Zhou
+1384,13502,合州,He Zhou
+1385,13503,石镜,Shijing
+1386,13503,石镜,Shijing
+1387,13504,石照,Shizhao
+1388,13504,石照,Shizhao
+1389,13505,汉初,Hanchu
+1390,13505,汉初,Hanchu
+1391,13506,巴川,Bachuan
+1392,13506,巴川,Bachuan
+1393,13509,铜梁,Tongliang
+1394,13509,铜梁,Tongliang
+1395,13511,荣州,Rong Zhou
+1396,13511,荣州,Rong Zhou
+1397,13512,旭川,Xuchuan
+1398,13512,旭川,Xuchuan
+1399,13513,荣德,Rongde
+1400,13513,荣德,Rongde
+1401,13514,威远,Weiyuan
+1402,13514,威远,Weiyuan
+1403,13515,资官,Ziguan
+1404,13515,资官,Ziguan
+1405,13516,应灵,Yingling
+1406,13516,应灵,Yingling
+1407,13517,公井,Gongjing
+1408,13517,公井,Gongjing
+1409,13518,和义,Heyi
+1410,13518,和义,Heyi
+1411,13519,戎州,Rong Zhou
+1412,13519,戎州,Rong Zhou
+1413,13522,棘道,Jidao
+1414,13522,棘道,Jidao
+1415,13524,义宾,Yibin
+1416,13524,义宾,Yibin
+1417,13526,宣化,Xuanhua
+1418,13526,宣化,Xuanhua
+1419,13527,南溪,Nanxi
+1420,13527,南溪,Nanxi
+1421,13528,开边,Kaibian
+1422,13528,开边,Kaibian
+1423,13529,归顺,Guishun
+1424,13529,归顺,Guishun
+1425,13530,马湖江部,Mahujiang Bu
+1426,13530,马湖江部,Mahujiang Bu
+1427,13536,石门路,Shimen Lu
+1428,13536,石门路,Shimen Lu
+1429,13538,渠州,Qu Zhou
+1430,13538,渠州,Qu Zhou
+1431,13543,邻水,Linshui
+1432,13543,邻水,Linshui
+1433,13544,邻山,Linshan
+1434,13544,邻山,Linshan
+1435,13545,渠江,Qujiang
+1436,13545,渠江,Qujiang
+1437,13546,怀安军,Huai'an Jun
+1438,13546,怀安军,Huai'an Jun
+1439,13550,宁西军,Ningxi Jun
+1440,13554,和溪,Hexi
+1441,13554,和溪,Hexi
+1442,13555,富义监,Fuyi Jian
+1443,13555,富义监,Fuyi Jian
+1444,13557,富义监,Fuyi Jian
+1445,13557,富义监,Fuyi Jian
+1446,13562,长宁军,Changning Jun
+1447,13563,长宁军,Changning Jun
+1448,13567,安宁,Anning
+1449,13568,纯州,Chun Zhou
+1450,13568,纯州,Chun Zhou
+1451,13569,九支,Jiuzhi
+1452,13569,九支,Jiuzhi
+1453,13570,安溪,Anxi
+1454,13570,安溪,Anxi
+1455,13571,滋州,Zi Zhou
+1456,13572,仁怀,Renhuai
+1457,13573,承流,Chengliu
+1458,13574,祥州,Xiang Zhou
+1459,13576,利州路,Lizhou Lu
+1460,13580,兴元府,Xingyuan Fu
+1461,13580,兴元府,Xingyuan Fu
+1462,13581,南郑,Nanzheng
+1463,13581,南郑,Nanzheng
+1464,13582,廉水,Lianshui
+1465,13582,廉水,Lianshui
+1466,13583,城固,Chenggu
+1467,13583,城固,Chenggu
+1468,13584,褒城,Baocheng
+1469,13584,褒城,Baocheng
+1470,13586,西县,Xi Xian
+1471,13586,西县,Xi Xian
+1472,13588,利州,Li Zhou
+1473,13588,利州,Li Zhou
+1474,13589,绵谷,Miangu
+1475,13589,绵谷,Miangu
+1476,13590,葭萌,Xiameng
+1477,13590,葭萌,Xiameng
+1478,13592,益昌,Yichang
+1479,13592,益昌,Yichang
+1480,13593,昭化,Zhaohua
+1481,13593,昭化,Zhaohua
+1482,13594,裔山,Yishan
+1483,13594,裔山,Yishan
+1484,13595,平蜀,Pingshu
+1485,13595,平蜀,Pingshu
+1486,13596,洋州,Yang Zhou
+1487,13596,洋州,Yang Zhou
+1488,13597,兴道,Xingdao
+1489,13597,兴道,Xingdao
+1490,13598,西乡,Xixiang
+1491,13598,西乡,Xixiang
+1492,13599,真符,Zhenfu
+1493,13599,真符,Zhenfu
+1494,13600,阆州,Lang Zhou
+1495,13600,阆州,Lang Zhou
+1496,13601,阆中,Langzhong
+1497,13601,阆中,Langzhong
+1498,13602,苍溪,Cangxi
+1499,13602,苍溪,Cangxi
+1500,13603,南部,Nanbu
+1501,13603,南部,Nanbu
+1502,13604,新井,Xinjing
+1503,13604,新井,Xinjing
+1504,13605,奉国,Fengguo
+1505,13605,奉国,Fengguo
+1506,13606,新政,Xinzheng
+1507,13606,新政,Xinzheng
+1508,13607,西水,Xishui
+1509,13607,西水,Xishui
+1510,13608,岐山,Qishan
+1511,13608,岐山,Qishan
+1512,13608,岐山,Qishan
+1513,13609,晋安,Jin'an
+1514,13609,晋安,Jin'an
+1515,13611,隆庆府,Longqing Fu
+1516,13612,普安,Pu'an
+1517,13612,普安,Pu'an
+1518,13613,梓潼,Zitong
+1519,13613,梓潼,Zitong
+1520,13614,阴平,Yinping
+1521,13614,阴平,Yinping
+1522,13615,武连,Wulian
+1523,13615,武连,Wulian
+1524,13616,普城,Pucheng
+1525,13616,普城,Pucheng
+1526,13619,临津,Linjin
+1527,13619,临津,Linjin
+1528,13620,永归,Yonggui
+1529,13620,永归,Yonggui
+1530,13621,巴州,Ba Zhou
+1531,13621,巴州,Ba Zhou
+1532,13622,化城,Huacheng
+1533,13622,化城,Huacheng
+1534,13624,恩阳,Enyang
+1535,13624,恩阳,Enyang
+1536,13625,曾口,Zengkou
+1537,13625,曾口,Zengkou
+1538,13628,盘道,Pandao
+1539,13628,盘道,Pandao
+1540,13629,归仁,Guiren
+1541,13629,归仁,Guiren
+1542,13630,始宁,Shining
+1543,13630,始宁,Shining
+1544,13631,其章,Qizhang
+1545,13631,其章,Qizhang
+1546,13632,七盘,Qipan
+1547,13632,七盘,Qipan
+1548,13633,文州,Wen Zhou
+1549,13633,文州,Wen Zhou
+1550,13634,曲水,Qushui
+1551,13634,曲水,Qushui
+1552,13636,沔州,Mian Zhou
+1553,13637,顺政,Shunzheng
+1554,13637,顺政,Shunzheng
+1555,13638,略阳,Lueyang
+1556,13638,略阳,Lueyang
+1557,13639,长举,Changju
+1558,13639,长举,Changju
+1559,13640,蓬州,Peng Zhou
+1560,13640,蓬州,Peng Zhou
+1561,13641,蓬池,Pengchi
+1562,13641,蓬池,Pengchi
+1563,13642,仪陇,Yilong
+1564,13642,仪陇,Yilong
+1565,13643,朗池,Langchi
+1566,13643,朗池,Langchi
+1567,13644,营山,Yingshan
+1568,13644,营山,Yingshan
+1569,13645,伏虞,Fuyu
+1570,13645,伏虞,Fuyu
+1571,13648,蓬山,Pengshan
+1572,13648,蓬山,Pengshan
+1573,13649,宕渠,Dangqu
+1574,13649,宕渠,Dangqu
+1575,13650,相如,Xiangru
+1576,13650,相如,Xiangru
+1577,13652,政州,Zheng Zhou
+1578,13654,江油,Jiangyou
+1579,13654,江油,Jiangyou
+1580,13655,清川,Qingchuan
+1581,13655,清川,Qingchuan
+1582,13656,大安军,Da'an Jun
+1583,13657,大安军,Da'an Jun
+1584,13658,大安军,Da'an Jun
+1585,13661,集州,Ji Zhou
+1586,13661,集州,Ji Zhou
+1587,13663,大牟,Damou
+1588,13663,大牟,Damou
+1589,13666,通平,Tongping
+1590,13666,通平,Tongping
+1591,13667,壁州,Bi Zhou
+1592,13667,壁州,Bi Zhou
+1593,13669,白石,Baishi
+1594,13669,白石,Baishi
+1595,13670,符阳,Fuyang
+1596,13670,符阳,Fuyang
+1597,13671,金州,Jin Zhou
+1598,13671,金州,Jin Zhou
+1599,13678,成州,Cheng Zhou
+1600,13678,成州,Cheng Zhou
+1601,13679,同庆府,Tongqing Fu
+1602,13683,天水军,Tianshui Jun
+1603,13685,西和州,Xihe Zhou
+1604,13691,凤州,Feng Zhou
+1605,13691,凤州,Feng Zhou
+1606,13694,两当,Liangdang
+1607,13694,两当,Liangdang
+1608,13695,阶州,Jie Zhou
+1609,13695,阶州,Jie Zhou
+1610,13696,福津,Fujin
+1611,13696,福津,Fujin
+1612,13698,剑门关,Jianmen Guan
+1613,13700,夔州路,Kuizhou Lu
+1614,13701,夔州,Kui Zhou
+1615,13701,夔州,Kui Zhou
+1616,13702,奉节,Fengjie
+1617,13702,奉节,Fengjie
+1618,13703,巫山,Wushan
+1619,13703,巫山,Wushan
+1620,13707,绍庆府,Shaoqing Fu
+1621,13708,彭水,Pengshui
+1622,13708,彭水,Pengshui
+1623,13709,黔江,Qianjiang
+1624,13709,黔江,Qianjiang
+1625,13710,洪都,Hongdu
+1626,13710,洪都,Hongdu
+1627,13711,洋水,Yangshui
+1628,13711,洋水,Yangshui
+1629,13712,信宁,Xinning
+1630,13712,信宁,Xinning
+1631,13713,都濡,Duru
+1632,13713,都濡,Duru
+1633,13714,务川城,Wuchuan Cheng
+1634,13714,务川城,Wuchuan Cheng
+1635,13717,洋羁縻州,Yang Jimizhou
+1636,13717,洋羁縻州,Yang Jimizhou
+1637,13718,蛮羁縻州,Man Jimizhou
+1638,13718,蛮羁縻州,Man Jimizhou
+1639,13719,大万谷乐羁縻州,Dawangule Jimizhou
+1640,13719,大万谷乐羁縻州,Dawangule Jimizhou
+1641,13720,功羁縻州,Gong Jimizhou
+1642,13720,功羁縻州,Gong Jimizhou
+1643,13723,普宁羁縻州,Puning Jimizhou
+1644,13723,普宁羁縻州,Puning Jimizhou
+1645,13724,蒋羁縻州,Jiang Jimizhou
+1646,13724,蒋羁縻州,Jiang Jimizhou
+1647,13725,陈蒙羁縻州,Chenmeng Jimizhou
+1648,13725,陈蒙羁縻州,Chenmeng Jimizhou
+1649,13726,候羁縻州,Hou Jimizhou
+1650,13726,候羁縻州,Hou Jimizhou
+1651,13727,犍羁縻州,Jian Jimizhou
+1652,13727,犍羁縻州,Jian Jimizhou
+1653,13728,庄羁縻州,Zhuang Jimizhou
+1654,13728,庄羁縻州,Zhuang Jimizhou
+1655,13729,邦羁縻州,Bang Jimizhou
+1656,13729,邦羁縻州,Bang Jimizhou
+1657,13730,邦羁縻州,Bang Jimizhou
+1658,13730,邦羁縻州,Bang Jimizhou
+1659,13731,南宁羁縻州,Nanning Jimizhou
+1660,13731,南宁羁縻州,Nanning Jimizhou
+1661,13732,和武羁縻州,Hewu Jimizhou
+1662,13732,和武羁縻州,Hewu Jimizhou
+1663,13733,乡羁縻州,Xiang Jimizhou
+1664,13733,乡羁縻州,Xiang Jimizhou
+1665,13734,罗嵩羁縻州,Luosong Jimizhou
+1666,13734,罗嵩羁縻州,Luosong Jimizhou
+1667,13738,牂羁縻州,Zang Jimizhou
+1668,13738,牂羁縻州,Zang Jimizhou
+1669,13739,合江羁縻州,Hejiang Jimizhou
+1670,13739,合江羁縻州,Hejiang Jimizhou
+1671,13743,南州羁縻州,Nan Jimizhou
+1672,13743,南州羁縻州,Nan Jimizhou
+1673,13745,通州,Tong Zhou
+1674,13747,通川,Tongchuan
+1675,13748,巴渠,Baju
+1676,13749,永睦,Yongmu
+1677,13750,新宁,Xinning
+1678,13751,石鼓,Shigu
+1679,13752,三冈,San'gang
+1680,13755,宣汉,Xuanhan
+1681,13756,阆英,Langying
+1682,13757,通明,Tongming Yuan
+1683,13758,通明,Tongming
+1684,13759,施州,Shi Zhou
+1685,13759,施州,Shi Zhou
+1686,13760,清江,Qingjiang
+1687,13760,清江,Qingjiang
+1688,13761,建始,Jianshi
+1689,13761,建始,Jianshi
+1690,13763,咸淳府,Xianchun Fu
+1691,13764,临江,Linjiang
+1692,13764,临江,Linjiang
+1693,13765,垫江,Dianjiang
+1694,13765,垫江,Dianjiang
+1695,13766,桂溪,Guixi
+1696,13766,桂溪,Guixi
+1697,13767,酆都,Fengdu
+1698,13767,酆都,Fengdu
+1699,13768,南宾,Nanbin
+1700,13768,南宾,Nanbin
+1701,13769,龙渠,Longqu
+1702,13769,龙渠,Longqu
+1703,13770,万州,Wan Zhou
+1704,13770,万州,Wan Zhou
+1705,13771,南浦,Nanpu
+1706,13771,南浦,Nanpu
+1707,13772,武宁,Wuning
+1708,13772,武宁,Wuning
+1709,13774,开州,Kai Zhou
+1710,13774,开州,Kai Zhou
+1711,13775,开江,Kaijiang
+1712,13775,开江,Kaijiang
+1713,13776,万岁,Wansui
+1714,13776,万岁,Wansui
+1715,13777,清水,Qingshui
+1716,13777,清水,Qingshui
+1717,13778,新浦,Xinpu
+1718,13778,新浦,Xinpu
+1719,13779,涪州,Fu Zhou
+1720,13779,涪州,Fu Zhou
+1721,13780,涪陵,Fuling
+1722,13780,涪陵,Fuling
+1723,13781,乐温,Lewen
+1724,13781,乐温,Lewen
+1725,13783,枳县,Zhi Xian
+1726,13783,枳县,Zhi Xian
+1727,13785,宾化,Binhua
+1728,13785,宾化,Binhua
+1729,13787,温山,Wenshan
+1730,13787,温山,Wenshan
+1731,13788,渝州,Yu Zhou
+1732,13788,渝州,Yu Zhou
+1733,13791,巴县,Ba Xian
+1734,13791,巴县,Ba Xian
+1735,13792,江津,Jiangjin
+1736,13792,江津,Jiangjin
+1737,13793,壁山,Bishan
+1738,13793,壁山,Bishan
+1739,13794,万寿,Wanshou
+1740,13794,万寿,Wanshou
+1741,13795,南平,Nanping
+1742,13795,南平,Nanping
+1743,13799,云安军,Yun'an Jun
+1744,13799,云安军,Yun'an Jun
+1745,13801,安义,Anyi
+1746,13801,安义,Anyi
+1747,13802,梁山军,Liangshan Jun
+1748,13802,梁山军,Liangshan Jun
+1749,13803,梁山,Liangshan
+1750,13803,梁山,Liangshan
+1751,13804,南平军,Nanping Jun
+1752,13804,南平军,Nanping Jun
+1753,13808,播川城,Bochuan Cheng
+1754,13808,播川城,Bochuan Cheng
+1755,13809,大宁监,Daning Jian
+1756,13809,大宁监,Daning Jian
+1757,13810,大宁监,Daning Jian
+1758,13810,大宁监,Daning Jian
+1759,13812,珍州,Zhen Zhou
+1760,13821,田氏,Tianshi
+1761,13821,田氏,Tianshi
+1762,13830,邛水,Qiongshui
+1763,13830,邛水,Qiongshui
+1764,13831,邛水,Qiongshui
+1765,13831,邛水,Qiongshui
+1766,13834,播川,Bochuan
+1767,13836,带水,Daishui
+1768,13837,琅川,Langchuan
+1769,13839,承州,Cheng Zhou
+1770,13841,都上,Dushang
+1771,13842,义泉,Yiquan
+1772,13843,宁夷,Ningyi
+1773,13844,洋川,Yangchuan
+1774,13845,溱州,Zhen Zhou
+1775,13846,溱溪,Zhenxi
+1776,13847,夜郎,Yelang
+1777,13859,巴东,Badong
+1778,13859,巴东,Badong
+1779,13862,光荣,Guangrong
+1780,13862,光荣,Guangrong
+1781,13863,光荣,Guangrong
+1782,13863,光荣,Guangrong
+1783,13864,文贵,Wengui
+1784,13864,文贵,Wengui
+1785,13865,文贵,Wengui
+1786,13865,文贵,Wengui
+1787,13866,两浙西南路,Liangzhexi'nan Lu
+1788,13867,福建路,Fujian Lu
+1789,13868,福州,Fu Zhou
+1790,13869,闽县,Min Xian
+1791,13870,侯官,Houguan
+1792,13871,福清,Fuqing
+1793,13872,怀安,Huai'an
+1794,13873,长溪,Changxi
+1795,13874,连江,Lianjiang
+1796,13875,古田,Gutian
+1797,13876,长乐,Changle
+1798,13877,永泰,Yongtai
+1799,13878,永福,Yongfu
+1800,13879,闽清,Minqing
+1801,13880,永贞,Yongzhen
+1802,13881,永昌,Yongchang
+1803,13882,罗源,Luoyuan
+1804,13883,宁德,Ningde
+1805,13885,建宁府,Jianning Fu
+1806,13890,建阳,Jianyang
+1807,13891,嘉禾,Jiahe
+1808,13892,浦城,Pucheng
+1809,13893,崇安场,Chong'an Chang
+1810,13894,崇安,Chong'an
+1811,13895,关隶,Guanli
+1812,13896,政和,Zhenghe
+1813,13897,松溪,Songxi
+1814,13902,泉州,Quan Zhou
+1815,13906,南安,Nan'an
+1816,13907,同安,Tong'an
+1817,13908,惠安,Hui'an
+1818,13909,永春,Yongchun
+1819,13910,清溪,Qingxi
+1820,13911,安溪,Anxi
+1821,13912,德化,Dehua
+1822,13916,剑州,Jian Zhou
+1823,13918,剑浦,Jianpu
+1824,13918,剑浦,Jianpu
+1825,13920,尤溪,Youxi
+1826,13920,尤溪,Youxi
+1827,13921,沙县,Sha Xian
+1828,13921,沙县,Sha Xian
+1829,13922,顺昌,Shunchang
+1830,13922,顺昌,Shunchang
+1831,13923,汀州,Ting Zhou
+1832,13926,清流,Qingliu
+1833,13931,上杭场,Shanghang Chang
+1834,13932,上杭,Shanghang
+1835,13933,武平场,Wuping Chang
+1836,13934,武平,Wuping
+1837,13935,漳州,Zhang Zhou
+1838,13936,龙溪,Longxi
+1839,13937,漳浦,Zhangpu
+1840,13938,龙岩,Longyan
+1841,13940,邵武军,Shaowu Jun
+1842,13943,光泽,Guangze
+1843,13945,泰宁,Taining
+1844,13946,建宁,Jianning
+1845,13946,建宁,Jianning
+1846,13947,兴化军,Xinghua Jun
+1847,13949,兴化,Xinghua
+1848,13951,广南路,Guangnan Lu
+1849,13952,广南东路,Guangnandong Lu
+1850,13953,广州,Guang Zhou
+1851,13957,番禺,Panyu
+1852,13959,清远,Qingyuan
+1853,13960,增城,Zengcheng
+1854,13961,怀集,Huaiji
+1855,13965,东莞,Dongguan
+1856,13968,义宁,Yining
+1857,13970,常康,Changkang
+1858,13971,咸宁,Xianning
+1859,13972,洊水,Cunshui
+1860,13974,蒙化,Menghua
+1861,13976,韶州,Shao Zhou
+1862,13979,翁源,Wengyuan
+1863,13980,建福,Jianfu
+1864,13983,仁化,Renhua
+1865,13985,乳源,Ruyuan
+1866,13987,循州,Xun Zhou
+1867,13989,雷乡,Leixiang
+1868,13993,兴宁,Xingning
+1869,13996,潮州,Chao Zhou
+1870,14008,连州,Lian Zhou
+1871,14011,阳山,Yangshan
+1872,14020,荡山,Dangshan
+1873,14020,荡山,Dangshan
+1874,14021,封阳,Fengyang
+1875,14021,封阳,Fengyang
+1876,14022,冯乘,Fengcheng
+1877,14022,冯乘,Fengcheng
+1878,14029,端州,Duan Zhou
+1879,14031,高要,Gaoyao
+1880,14033,平兴,Pingxing
+1881,14034,新州,Xin Zhou
+1882,14039,永顺,Yongshun
+1883,14040,康州,Kang Zhou
+1884,14042,端溪,Duanxi
+1885,14046,悦城,Yuecheng
+1886,14047,晋康,Jinkang
+1887,14048,都城,Ducheng
+1888,14049,恩州,En Zhou
+1889,14054,恩平,Enping
+1890,14055,杜陵,Duling
+1891,14056,恭州,Gong Zhou
+1892,14056,恭州,Gong Zhou
+1893,14063,雄州,Xiong Zhou
+1894,14065,滇昌,Zhenchang
+1895,14066,保昌,Baochang
+1896,14069,英德府,Yingde Fu
+1897,14070,滇阳,Zhenyang
+1898,14071,滇阳,Zhenyang
+1899,14072,含光,Hanguang
+1900,14072,含光,Hanguang
+1901,14073,惠州,Hui Zhou
+1902,14074,归善,Guishan
+1903,14075,河源,Heyuan
+1904,14076,博罗,Boluo
+1905,14077,海丰,Haifeng
+1906,14078,泷州,Long Zhou
+1907,14080,开阳,Kaiyang
+1908,14081,建水,Jianshui
+1909,14082,镇南,Zhennan
+1910,14083,春州,Chun Zhou
+1911,14084,阳春,Yangchun
+1912,14086,罗水,Luoshui
+1913,14087,流南,Liu'nan
+1914,14088,勤州,Qin Zhou
+1915,14089,铜陵,Tongling
+1916,14089,铜陵,Tongling
+1917,14090,富林,Fulin
+1918,14091,广南西路,Guangnanxi Lu
+1919,14092,桂州,Gui Zhou
+1920,14097,兴安,Xing'an
+1921,14098,灵川,Lingchuan
+1922,14099,阳朔,Yangshuo
+1923,14102,丰水,Fengshui
+1924,14104,永宁,Yongning
+1925,14105,永福,Yongfu
+1926,14109,理定,Liding
+1927,14110,古县,Gu Xian
+1928,14111,慕化,Muhua
+1929,14112,容州,Rong Zhou
+1930,14115,北流,Beiliu
+1931,14117,陆川,Luchuan
+1932,14118,欣道,Xindao
+1933,14119,渭龙,Weilong
+1934,14120,邕州,Yong Zhou
+1935,14121,宣化,Xuanhua
+1936,14122,武缘,Wuyuan
+1937,14123,郎宁,Langning
+1938,14124,封陵,Fengling
+1939,14125,思笼,Silong
+1940,14126,如和,Ruhe
+1941,14127,晋兴,Jinxing
+1942,14128,乐昌,Lechang
+1943,14129,右江道,Youjiang Dao
+1944,14130,左江道,Zuojiang Dao
+1945,14132,思刚羁縻州,Sigang Jimizhou
+1946,14133,象州,Xiang Zhou
+1947,14134,阳寿,Yangshou
+1948,14138,武仙,Wuxian
+1949,14139,融州,Rong Zhou
+1950,14147,罗城,Luocheng
+1951,14148,武阳,Wuyang
+1952,14149,怀远,Huaiyuan
+1953,14151,昭州,Zhao Zhou
+1954,14152,平乐,Pingle
+1955,14156,昭平,Zhaoping
+1956,14158,恭城,Gongcheng
+1957,14159,永平,Yongping
+1958,14160,梧州,Wu Zhou
+1959,14161,苍梧,Cangwu
+1960,14162,戎城,Rongcheng
+1961,14163,孟陵,Mengling
+1962,14165,藤州,Teng Zhou
+1963,14166,镡津,Tanjin
+1964,14168,感义,Ganyi
+1965,14169,义昌,Yichang
+1966,14170,宁风,Ningfeng
+1967,14176,武林,Wulin
+1968,14177,隋建,Suijian
+1969,14178,大同,Datong
+1970,14179,阳川,Yangchuan
+1971,14180,浔州,Xun Zhou
+1972,14181,桂平,Guiping
+1973,14184,皇化,Huanghua
+1974,14185,大宾,Dabin
+1975,14186,贵州,Gui Zhou
+1976,14187,郁林,Yulin
+1977,14188,怀泽,Huaize
+1978,14189,义山,Yishan
+1979,14190,潮水,Chaoshui
+1980,14191,柳州,Liu Zhou
+1981,14192,马平,Maping
+1982,14193,洛容,Luorong
+1983,14194,龙城,Longcheng
+1984,14195,柳城,Liucheng
+1985,14197,象县,Xiang Xian
+1986,14199,庆远府,Qingyuan Fu
+1987,14200,龙水,Longshui
+1988,14201,宜山,Yishan
+1989,14203,忻城,Xincheng
+1990,14205,环羁縻州,Huan Jimizhou
+1991,14206,思恩,Si'en
+1992,14207,智羁縻州,Zhi Jimizhou
+1993,14208,河池,Hechi
+1994,14209,芝忻羁縻州,Zhixin Jimizhou
+1995,14210,归恩羁縻州,Gui'en Jimizhou
+1996,14211,纡羁縻州,Yu Jimizhou
+1997,14212,宾州,Bin Zhou
+1998,14213,岭方,Lingfang
+1999,14214,迁江,Qianjiang
+2000,14216,琅琊,Langye
+2001,14217,保城,Baocheng
+2002,14218,横州,Heng Zhou
+2003,14223,乐山,Leshan
+2004,14224,从化,Conghua
+2005,14225,岭山,Lingshan
+2006,14226,辨州,Bian Zhou
+2007,14232,石城,Shicheng
+2008,14233,陵罗,Lingluo
+2009,14240,信宜,Xinyi
+2010,14243,良德,Liangde
+2011,14244,保定,Baoding
+2012,14245,雷州,Lei Zhou
+2013,14249,遂溪,Suixi
+2014,14252,徐闻,Xuwen
+2015,14257,建宁,Jianning
+2016,14258,周罗,Zhouluo
+2017,14259,南昌,Nanchang
+2018,14260,钦州,Qin Zhou
+2019,14261,灵山,Lingshan
+2020,14262,保京,Baojing
+2021,14263,安京,Anjing
+2022,14264,安远,Anyuan
+2023,14265,钦江,Qinjiang
+2024,14266,遵化,Zunhua
+2025,14267,内亭,Neiting
+2026,14268,郁林州,Yulin Zhou
+2027,14269,南流,Nanliu
+2028,14270,兴业,Xingye
+2029,14273,郁平,Yuping
+2030,14274,兴德,Xingde
+2031,14276,太平军,Taiping Jun
+2032,14281,合浦,Hepu
+2033,14282,石康,Shikang
+2034,14283,封山,Fengshan
+2035,14284,蔡龙,Cailong
+2036,14285,大廉,Dalian
+2037,14286,琼州,Qiong Zhou
+2038,14287,琼山,Qiongshan
+2039,14290,临高,Lin'gao
+2040,14291,乐会,Lehui
+2041,14296,万宁,Wanning
+2042,14302,儋州,Dan Zhou
+2043,14305,义伦,Yilun
+2044,14312,昌化,Changhua
+2045,14314,昌化,Changhua
+2046,14314,昌化,Changhua
+2047,14319,万安军,Wan'an Jun
+2048,14326,振州,Zhen Zhou
+2049,14328,朱崖军,Zhuya Jun
+2050,14331,朱崖,Zhuya
+2051,14333,宁远,Ningyuan
+2052,14337,贺州,He Zhou
+2053,14337,贺州,He Zhou
+2054,14339,富川,Fuchuan
+2055,14339,富川,Fuchuan
+2056,14341,溥州,Bu Zhou
+2057,14343,绣州,Xiu Zhou
+2058,14344,常林,Changlin
+2059,14345,阿林,Alin
+2060,14346,罗绣,Luoxiu
+2061,14347,顺州,Shun Zhou
+2062,14349,温水,Wenshui
+2063,14350,南河,Nanhe
+2064,14351,龙豪,Longhao
+2065,14352,禺州,Yu Zhou
+2066,14353,峨石,Eshi
+2067,14355,扶莱,Fulai
+2068,14356,陵城,Lingcheng
+2069,14357,澄州,Cheng Zhou
+2070,14359,无虞,Wuyu
+2071,14360,止戈,Zhige
+2072,14361,贺水,Heshui
+2073,14362,严州,Yan Zhou
+2074,14364,归化,Guihua
+2075,14365,平州,Ping Zhou
+2076,14367,富州,Fu Zhou
+2077,14369,马江,Majiang
+2078,14370,思懃,Siqin
+2079,14371,蒙州,Meng Zhou
+2080,14373,正义,Zhengyi
+2081,14374,蒙山,Mengshan
+2082,14375,东区,Dongqu
+2083,14376,南义州,Nanyi Zhou
+2084,14377,岑溪,Cenxi
+2085,14378,永业,Yongye
+2086,14379,连城,Liancheng
+2087,14381,思明州,Siming Zhou
+2088,14383,平原,Pingyuan
+2089,14384,蛮州,Man Zhou
+2090,14386,武罗,Wuluo
+2091,14387,灵竹,Lingzhu
+2092,14388,罗州,Luo Zhou
+2093,14389,廉江,Lianjiang
+2094,14391,干水,Ganshui
+2095,14392,零禄,Linglu
+2096,14393,潘州,Pan Zhou
+2097,14395,潘水,Panshui
+2098,14396,南邑,Nanyi
+2099,14397,窦州,Dou Zhou
+2100,14400,怀德,Huaide
+2101,14401,潭峨,Tan'e
+2102,14402,特亮,Teliang
+2103,14403,电白,Dianbai
+2104,14403,电白,Dianbai
+2105,14405,牢州,Lao Zhou
+2106,14407,定川,Dingchuan
+2107,14408,岩川,Yanchuan
+2108,14409,党州,Dang Zhou
+2109,14410,抚康,Fukang
+2110,14411,善牢,Shanlao
+2111,14412,容山,Rongshan
+2112,14413,怀义,Huaiyi
+2113,14414,常乐州,Changle Zhou
+2114,14415,常乐州,Changle Zhou
+2115,14416,盐场,Yanchang
+2116,14417,崖州,Ya Zhou
+2117,14421,观州,Guan Zhou
+2118,14422,观州,Guan Zhou
+2119,14427,自杞,Ziqi
+2120,14428,特磨道,Temo Dao
+2121,14431,大理,Dali
+2122,14433,吐蕃诸部,Tufan Tribes
+2123,14458,西夏,XiXia
+2124,14459,西夏,XiXia
+2125,14480,Aboriginal Tribal Lands,Aboriginal Tribal Lands
+2126,18925,陕西河北,Shaanxi Hebei
+2127,18926,陕西河南,Shaanxi He'nan
+2128,18927,陕西熙河,Shaanxi Xihe
+2129,18928,陕西鹿延,Shaanxi Fuyan
+2130,18929,陕西环庆,Shaanxi Huanqing
+2131,18930,陕西泾原,Shaanxi Jingyuan
+2132,18931,陕西秦风,Shaanxi Qinfeng
+2133,18932,陕西陕西,Shaanxi Shaanxi
+2134,18933,峡路,Xia Lu
+2135,18934,陕西永兴,Shaanxi Yongxing
+2136,18935,四川,Sichuan
+2137,18936,湖广,Huguang
+2138,18937,两浙东北路,Liangzhe Dongbei Lu
+2139,18943,海口镇,Haikou Zhen
+2140,18944,大名府路,Damingfu Lu
+2141,18945,高阳关路,Gaoyangguan Lu
+2142,18946,真定府路,Zhendingfu Lu
+2143,18947,定州路,Dingzhou Lu
+2144,18949,庆成军,Qingcheng Jun
+2145,18950,九陇,Jiulong
+2146,18951,永平监,Yongping
+2147,18952,水洛城,Shuiluo Cheng
+2148,18953,福安县,Fuan Xian
+2149,20524,永国,Yong Guo
+2150,24000,归顺羁縻州,Guishun Zhou
+2151,24001,安化羁縻州,Anhua Zhou
+2152,24002,古羁縻州,Gu Zhou
+2153,24003,鹤羁縻州,He Zhou
+2154,24004,富羁縻州,Fu Zhou
+2155,24005,安羁縻州,An Zhou
+2156,25000,崇国,Chong Guo
+2157,25001,晋国,Jin Guo
+2158,25002,燕国,Yan Guo
+2159,25003,莱国,Lai Guo
+2160,25004,英国,Ying Guo
+2161,25005,韩国,Han Guo
+2162,25006,鲁国,Lu Guo
+2163,25007,冀国,Ji Guo
+2164,25008,岐国,Qi Guo
+2165,25009,汉国,Han Guo
+2166,25010,兖国,Yan Guo
+2167,25011,魏国,Wei Guo
+2168,25012,蜀国,Shu Guo
+2169,25013,沂国,Yi Guo
+2170,25014,周国,Zhou Guo
+2171,25015,卫国,Wei Guo
+2172,25016,齐国,Qi Guo
+2173,25017,惠国,Hui Guo
+2174,25018,信国,Xin Guo
+2175,25019,潞国,Lu Guo
+2176,25020,福国,Fu Guo
+2177,25021,荆国,Jing Guo
+2178,25022,温国,Wen Guo
+2179,25023,越国,Yue Guo
+2180,25024,荣国,Rong Guo
+2181,25025,秦国,Qin Guo
+2182,25026,申国,Shen Guo
+2183,25027,吉国,Ji Guo
+2184,25028,莒国,Ju Guo
+2185,25029,祁国,Qi Guo
+2186,25030,广国,Guang Guo
+2187,25031,益国,Yi Guo
+2188,25032,楚国,Chu Guo
+2189,25033,吴国,Wu Guo
+2190,25034,襄国,Xiang Guo
+2191,25035,舒国,Shu Guo
+2192,25036,嘉国,Jia Guo
+2193,25037,许国,Xu Guo
+2194,25039,郑国,Zheng Guo
+2195,25040,袁国,Yuan Guo
+2196,25041,宣国,Xuan Guo
+2197,25042,蔡国,Cai Guo
+2198,25043,滕国,Teng Guo
+2199,25044,忠国,Zhong Guo
+2200,25045,成国,Cheng Guo
+2201,25046,康国,Kang Guo
+2202,25047,澶国,Chan Guo
+2203,25048,唐国,Tang Guo
+2204,25049,均国,Jun Guo
+2205,25050,庆国,Qing Guo
+2206,25051,相国,Xiang Guo
+2207,25052,镇国,Zheng Guo
+2208,25053,陈国,Chen Guo
+2209,25054,郇国,Xun Guo
+2210,25055,邓国,Deng Guo
+2211,25056,谯国,Qiao Guo
+2212,25057,郓国,Yun Guo
+2213,25060,代国,Dai  Guo
+2214,25061,仪国,Yi Guo
+2215,25062,光国,Guang Guo
+2216,25063,和国,He Guo
+2217,25064,商国,Shang Guo
+2218,25065,寿国,Shou Guo
+2219,25066,夏国,Xia Guo
+2220,25067,婺国,Wu Guo
+2221,25068,定国,Ding Guo
+2222,25069,密国,Mi Guo
+2223,25070,封国,Feng Guo
+2224,25071,尹国,Yin Guo
+2225,25072,建国,Jian Guo
+2226,25073,徐国,Xu Guo
+2227,25074,循国,Xun Guo
+2228,25075,房国,Fang Guo
+2229,25076,扬国,Yang Guo
+2230,25077,昌国,Chang Guo
+2231,25078,景国,Jing Guo
+2232,25079,曹国,Cao Guo
+2233,25080,杞国,Ji Guo
+2234,25081,梁国,Liang Guo
+2235,25082,求国,Qiu Guo
+2236,25083,沛国,Pei Guo
+2237,25084,洋国,Yang Guo
+2238,25085,洛国,Luo Guo
+2239,25086,泾国,Jing Guo
+2240,25087,淑国,Shu Guo
+2241,25088,颍国,Ying Guo
+2242,25089,润国,Run Guo
+2243,25090,潭国,Tan Guo
+2244,25091,济国,Ji Guo
+2245,25092,濮国,Pu Guo
+2246,25093,瀛国,Ying Guo
+2247,25094,祈国,Qi Guo
+2248,25095,秀国,Xiu Guo
+2249,25096,义国,Yi Guo
+2250,25097,翼国,Yi Guo
+2251,25098,茂国,Mao Guo
+2252,25099,华国,Hua Guo
+2253,25100,蒋国,Jiagn Guo
+2254,25101,萧国,Xiao Guo
+2255,25102,虢国,Guo Guo
+2256,25103,褒国,Bao Guo
+2257,25104,丰国,Feng Guo
+2258,25105,贺国,He Guo
+2259,25106,资国,Zi Guo
+2260,25107,通国,Tong Guo
+2261,25108,遂国,Sui Guo
+2262,25109,邠国,Bin Guo
+2263,25110,邢国,Xing Guo
+2264,25111,郢国,Ying Guo
+2265,25112,鄂国,E Guo
+2266,25113,鄠国,Hu Guo
+2267,25114,雍国,Yong Guo
+2268,25115,霍国,Huo Guo
+2269,25116,韶国,Shao Guo
+2270,25117,顺国,Shun Guo
+2271,25118,安国,An Guo
+2272,25120,涪国,Fu Guo
+2273,25121,淄国,Zi Guo
+2274,25122,简国,Jian Guo
+2275,25123,莘国,Shen Guo
+2276,25124,邕国,Yong Guo
+2277,25126,郯国,Tan Guo
+2278,25129,周汉国,Zhou Han Guo
+2279,25130,周晋国,Zhou Jin Guo
+2280,25131,思国,Si Guo
+2281,25132,恭国,Gong Guo
+2282,25133,怀国,Huai Guo
+2283,25134,杨国,Yang Guo
+2284,25999,宋代封国封郡,Song Enfoeffment Placenames
+2285,26000,文安郡,Wen'an Jun
+2286,26001,琅琊郡,Langya Jun
+2287,26002,太原郡,Taiyuan Jun
+2288,26003,长清郡,Changqing Jun
+2289,26004,平原郡,Pingyuan Jun
+2290,26005,京兆郡,Jingzhao Jun
+2291,26006,东海郡,Donghai Jun
+2292,26007,长沙郡,Changsha Jun
+2293,26008,永嘉郡,Yongjia Jun
+2294,26009,河内郡,Henei Jun
+2295,26010,新安郡,Xin'an Jun
+2296,26011,陇西郡,Longxi Jun
+2297,26012,南平郡,Nanping Jun
+2298,26013,交趾郡,Jiaozhi Jun
+2299,26014,建安郡,Jian'an Jun
+2300,26015,永安郡,Yong'an Jun
+2301,26016,大宁郡,Daning Jun
+2302,26017,东莱郡,Donglai Jun
+2303,26018,奉化郡,Fenghua Jun
+2304,26019,长乐郡,Changle Jun
+2305,26020,汉东郡,Handong jun
+2306,26021,信安郡,Xin'an Jun
+2307,26022,平乐郡,Pingle Jun
+2308,26023,寿春郡,Shouchun Jun
+2309,26024,武阳郡,Wuyang Jun
+2310,26025,河南郡,Henan Jun
+2311,26026,江陵郡,Jiangling Jun
+2312,26027,清河郡,Qinghe Jun
+2313,26029,陈留郡,Chenliu Jun
+2314,26030,怀德郡,Huaide Jun
+2315,26031,普安郡,Puan Jun
+2316,26032,齐安郡,Qi'an Jun
+2317,26033,吴兴郡,WuxingJun
+2318,26034,嘉兴郡,Jiaxing Jun
+2319,26035,昌元郡,Changyuan Jun
+2320,26036,德阳郡,Deyang Jun
+2321,26037,博平郡,Boping Jun
+2322,26039,济阳郡,Jiyang Jun
+2323,26040,乐安郡,Lean Jun
+2324,26041,江夏郡,Jiangxia Jun
+2325,26042,巨鹿郡,Julu Jun
+2326,26043,恩平郡,Enping Jun
+2327,26044,新兴郡,Xinxing Jun
+2328,26045,永宁郡,Yongning Jun
+2329,26046,安定郡,Anding Jun
+2330,26047,金乡郡,Jinxaing Jun
+2331,26048,安康郡,Ankang Jun
+2332,26049,兴平郡,Xingping Jun
+2333,26050,吴郡,Wu Jun
+2334,26051,上谷郡,Shanggu Jun
+2335,26052,上饶郡,Shangrao Jun
+2336,26053,丹阳郡,Danyang Jun
+2337,26054,仁寿郡,Renshou Jun
+2338,26055,信都郡,Xindu Jun
+2339,26056,北海郡,Beihai Jun
+2340,26057,南康郡,Nankang Jun
+2341,26058,南海郡,Nanhai Jun
+2342,26059,南阳郡,Nanyang Jun
+2343,26060,博陵郡,Boling Jun
+2344,26061,原武郡,Yuanwu Jun
+2345,26062,合沙郡,Hesha Jun
+2346,26063,同安郡,Tongan Jun
+2347,26064,吴国郡,Wuguo Jun
+2348,26065,和政郡,Hezheng Jun
+2349,26066,和义郡,Heyi Jun
+2350,26067,咸安郡,Xianan Jun
+2351,26068,咸宁郡,Xianning Jun
+2352,26069,咸义郡,Xianyi Jun
+2353,26070,寿沙郡,Shousha Jun
+2354,26071,天水郡,Tianshui Jun
+2355,26073,太宁郡,Taining Jun
+2356,26074,太山郡,Taishan Jun
+2357,26075,始平郡,Shiping Jun
+2358,26076,安化郡,Anhua Jun
+2359,26077,安唐郡,Antang Jun
+2360,26078,安乐郡,Anle Jun
+2361,26079,定襄郡,Dingxiang Jun
+2362,26080,宜春郡,Yichun Jun
+2363,26081,宣城郡,Xuancheng Jun
+2364,26082,封鲁郡,Fenglu Jun
+2365,26083,崇德郡,Chongde Jun
+2366,26084,常山郡,Changshan Jun
+2367,26085,平昌郡,Pingchang Jun
+2368,26086,平阳郡,Pingyang Jun
+2369,26087,广平郡,Guangping Jun
+2370,26088,广陵郡,Guangling Jun
+2371,26089,广阳郡,Guangyang Jun
+2372,26090,庐陵郡,Luling Jun
+2373,26091,延安郡,Yanan Jun
+2374,26092,彭城郡,Pengcheng Jun
+2375,26094,房陵郡,Fangling Jun
+2376,26095,新平郡,Xinping Jun
+2377,26096,昌化郡,Changhua Jun
+2378,26097,晋康郡,Jinkang Jun
+2379,26098,普宁郡,Puning Jun
+2380,26099,景安郡,Jingan Jun
+2381,26101,会稽郡,Huiji Jun
+2382,26102,东平郡,Dongping Jun
+2383,26103,东阳郡,Dongyang Jun
+2384,26104,乐平郡,Leping Jun
+2385,26105,乐陵郡,Leling Jun
+2386,26106,武威郡,Wuwei Jun
+2387,26107,武宁郡,Wuning Jun
+2388,26108,武陵郡,Wuling Jun
+2389,26109,永寿郡,Yongshou Jun
+2390,26110,永康郡,Yongkang Jun
+2391,26111,永昌郡,Yongchang Jun
+2392,26112,永郡,Yong Jun
+2393,26113,永阳郡,Yongyang Jun
+2394,26114,汝南郡,Runan Jun
+2395,26115,河东郡,Hedong Jun
+2396,26116,河闲郡,Hexian Jun
+2397,26117,河间郡,Hejian Jun
+2398,26118,河阳郡,Heyang Jun
+2399,26119,泰宁郡,Taining Jun
+2400,26120,洋川郡,Yangchuan Jun
+2401,26121,淮安郡,Huaian Jun
+2402,26122,淮阳郡,Huaiyang Jun
+2403,26123,淳安郡,Chunan Jun
+2404,26124,清原郡,Qingyuan Jun
+2405,26125,清江郡,Qingjiang Jun
+2406,26126,清源郡,Qingyuan Jun
+2407,26127,清郡,Qing Jun
+2408,26128,渤海郡,Bohai Jun
+2409,26129,荥阳郡,Yingyang Jun
+2410,26130,颍川郡,Yingchuan Jun
+2411,26131,颍州郡,Yingzhou Jun
+2412,26132,济阴郡,Jiyin Jun
+2413,26133,濠梁郡,Haoliang Jun
+2414,26134,濮阳郡,Puyang Jun
+2415,26135,犍为郡,Jianwei Jun
+2416,26136,瑯琊郡,Langya Jun
+2417,26137,缙云郡,Jinyun Jun
+2418,26138,临川郡,Linchuan Jun
+2419,26139,临沂郡,Linyi Jun
+2420,26140,临海郡,Linhai Jun
+2421,26141,华原郡,Huayuan Jun
+2422,26142,华阴郡,Huayin Jun
+2423,26143,蕲春郡,Qichun Jun
+2424,26144,虢郡,Guo Jun
+2425,26145,蜀郡,Shu Jun
+2426,26146,襄阳郡,Xiangyang Jun
+2427,26147,谯郡,Qiao Jun
+2428,26148,豫章郡,Yuzhang Jun
+2429,26149,赠康郡,Zengkang Jun
+2430,26150,赠文郡,Zengwen Jun
+2431,26151,通义郡,Tongyi Jun
+2432,26152,进封郡,Jinfeng Jun
+2433,26153,遂宁郡,Suining Jun
+2434,26154,郡郡,Jun Jun
+2435,26155,鄱阳郡,Poyang Jun
+2436,26156,长安郡,Changan Jun
+2437,26157,陇右郡,Longyou Jun
+2438,26158,饶阳郡,Raoyang Jun
+2439,26159,冯翊郡,Fengyi Jun
+2440,26160,高密郡,Gaomi Jun
+2441,26161,高平郡,Gaoping Jun
+2442,26162,高阳郡,Gaoyang Jun
+2443,26163,魏郡,Wei Jun
+2444,26164,鲁郡,Lu Jun
+2445,26165,鴈门郡,Yanmen Jun
+2446,26166,赵郡,Zhao Jun
+2447,30000,彰德军节度,Zhangde junjiedu
+2448,30001,彰信军节度,Zhangxin junjiedu
+2449,30002,成德军节度,Chengde junjiedu
+2450,30004,建宁军节度,Jianning junjiedu
+2451,30004,建宁军节度,Jianning junjiedu
+2452,30005,镇西军节度,Zhenxi junjiedu
+2453,30006,镇安军节度,Zhen'an junjiedu
+2454,30007,保宁军节度,Baoning junjiedu
+2455,30008,天雄军节度,Tianxiong junjiedu
+2456,30009,奉国军节度,Fengguo junjiedu
+2457,30012,武宁军节度,Wuning junjiedu
+2458,30013,武信军节度,Wuxin junjiedu
+2459,30014,建雄军节度,Jianxiong junjiedu
+2460,30015,武宁军节度,Wuning junjiedu
+2461,30017,镇海军节度,Zhenhai junjiedu
+2462,30018,兴德军节度,Xingde junjiedu
+2463,30019,归德军节度,Guidejun Jiedu
+2464,30020,武胜军节度,Wusheng junjiedu
+2465,30021,宁远军节度,Ningyuan junjiedu
+2466,30022,向德军节度,Xiangde junjiedu
+2467,30023,静难军节度,Jingnan junjiedu
+2468,30025,安国军节度,Anguo junjiedu
+2469,30026,安国军节度,Anguo junjiedu
+2470,30028,忠正军节度,Zhongzheng junjiedu
+2471,30029,安德军节度,Ande junjiedu
+2472,30029,安德军节度,Ande junjiedu
+2473,30030,建武军节度,Jianwu junjiedu
+2474,30031,河阳三城节度,Heyangsancheng Jiedu
+2475,30032,保静军节度,Baojing junjiedu
+2476,30033,昭庆军节度,Zhaoqing junjiedu
+2477,30034,定国军节度,Dingguo junjiedu
+2478,30035,建雄军节度,Jianxiong junjiedu
+2479,30036,凤翔军节度,Fengxiang junjiedu
+2480,30037,保平军节度,Baoping junjiedu
+2481,30038,河东节度,Hedong Jiedu
+2482,30039,护国军节度,Huguo junjiedu
+2483,30040,山南西道节度,Shannanxidao Jiedu
+2484,30040,山南西道节度,Shannanxidao Jiedu
+2485,30041,剑南西川节度,Jiannanxichuan Jiedu
+2486,30041,剑南西川节度,Jiannanxichuan Jiedu
+2487,30042,忠武军节度,Zhongwu junjiedu
+2488,30042,忠武军节度,Zhongwu junjiedu
+2489,30043,镇东军节度,Zhendong junjiedu
+2490,30044,昭信军节度,Zhaoxin junjiedu
+2491,30045,庆远军节度,Qingyuan junjiedu
+2492,30046,镇南军节度,Zhennan junjiedu
+2493,30047,威武军节度,Weiwu junjiedu
+2494,30048,泰宁军节度,Taining junjiedu
+2495,30049,天平军节度,Tianping junjiedu
+2496,30050,定武军节度,Dingwu junjiedu
+2497,30051,昭武军节度,Zhaowu junjiedu
+2498,30051,昭武军节度,Zhaowu junjiedu
+2499,30052,宁武军节度,Ningwu junjiedu
+2500,30052,宁武军节度,Ningwu junjiedu
+2501,30053,保大军节度,Baoda junjiedu
+2502,30054,保康军节度,Baokang junjiedu
+2503,30056,宁海军节度,Ninghai junjiedu
+2504,30057,平江军节度,Pingjiang junjiedu
+2505,30058,义成军节度,Yicheng junjiedu
+2506,30059,宣义军节度,Xuanyi junjiedu
+2507,30060,义成军节度,Yicheng junjiedu
+2508,30062,彰义军节度,Zhangyi junjiedu
+2509,30065,安远军节度,Anyuan junjiedu
+2510,30066,武泰军节度,Wutai junjiedu
+2511,30067,昭义军节度,Zhaoyi junjiedu
+2512,30068,昭德军节度,Zhaode junjiedu
+2513,30069,保信军节度,Baoxin junjiedu
+2514,30070,常德军节度,Changde junjiedu
+2515,30071,镇国军节度,Zhenguo junjiedu
+2516,30072,山南东道节度,Shan'nandongdao Jiedu
+2517,30072,山南东道节度,Shan'nandongdao Jiedu
+2518,30072,山南东道节度,Shan'nandongdao Jiedu
+2519,30073,安化军节度,Anhua junjiedu
+2520,30074,武安军节度,Wu'an junjiedu
+2521,30075,雄武军节度,Xiongwu junjiedu
+2522,30076,静江军节度,Jingjiang junjiedu
+2523,30077,宁国军节度,Ninguo junjiedu
+2524,30078,武康军节度,Wukang junjiedu
+2525,30078,武康军节度,Wukang junjiedu
+2526,30079,振武军节度,Zhenwu junjiedu
+2527,30080,平海军节度,Pinghai junjiedu
+2528,30082,彰化军节度,Zhanghua junjiedu
+2529,30086,永清军节度,Yongqing junjiedu
+2530,30087,彰武军节度,Zhangwu junjiedu
+2531,30088,静海军节度,Jinghai junjiedu
+2532,30089,奉宁军节度,Fengning junjiedu
+2533,30089,奉宁军节度,Fengning junjiedu
+2534,30091,淮康军节度,Huaikang junjiedu
+2535,30092,永安军节度,Yong'an junjiedu
+2536,30093,崇信军节度,Chongxin junjiedu
+2537,30094,横海军节度,Henghai junjiedu
+2538,30095,靖海军节度,Jinghai junjiedu
+2539,30096,镇国军节度,Zhenguo junjiedu
+2540,30097,清海军节度,Qinghai junjiedu
+2541,30098,昭化军节度,Zhaohua junjiedu
+2542,30098,昭化军节度,Zhaohua junjiedu
+2543,30099,剑南东川节度,Jiannandongchuan Jiedu
+2544,30099,剑南东川节度,Jiannandongchuan Jiedu
+2545,30100,定江军节度,Dingjiang junjiedu
+2546,30100,定江军节度,Dingjiang junjiedu
+2547,30101,荆南节度,Jingnan Jiedu
+2548,30102,义武军节度,Yiwu junjiedu
+2549,30103,镇潼军节度,Zhentong junjiedu
+2550,30104,武昌军节度,Wuchang Jun
+2551,30105,大同军节度,Datong junjiedu
+2552,30106,武当军节度,Wudang junjiedu
+2553,30107,德庆军节度,Deqing junjiedu
+2554,30108,清远军节度,Qingyuan junjiedu
+2555,30109,建康军节度,Jiankang junjiedu
+2556,30111,平凉军节度,Pingliang junjiedu
+2557,30112,镇江军节度,Zhenjiang junjiedu
+2558,30113,淮南军节度,Huangnan junjiedu
+2559,30114,河南军节度,Henan junjiedu
+2560,30115,越州军节度,Yuezhou junjiedu
+2561,30116,建州节度,Jianzhou Jiedu
+2562,30117,益州节度,Yizhou Jiedu
+2563,30118,黔州节度,Qinzhou Jiedu
+2564,30119,岭南军节度,Lingnan junjiedu
+2565,30120,陕州节度,Shanzhou Jiedu
+2566,30121,宣城节度,Xuancheng Jiedu
+2567,30122,桂州节度,Guizhou Jiedu
+2568,30123,江陵节度,Jiangling Jiedu
+2569,30124,海清节度,Haiqing Jiedu
+2570,30125,太平军军节度,Taiping junjiedu
+2571,30126,宋代节度(地区未详),Song Military Governors(unlocated)
+2572,99901,淮北,Huaibei
+2573,99903,梓夔路,Zi-Kui Lu
+2574,99904,灵环路,Linghuan Lu
+2575,99905,两淮路,Lianghuai Lu
+2576,99906,江南,Jiangnan
+2577,99907,广南,Guangnan region
+2578,99908,山东,Shandong
+2579,99909,燕,Yan
+2580,99910,华北平原/中原,North China plain
+2581,100001,三江,Sanjiang
+2582,100001,三江,Sanjiang
+2583,100003,上林,Shanglin
+2584,100003,上林,Shanglin
+2585,100003,上林,Shanglin
+2586,100004,上津,Shangjin
+2587,100004,上津,Shangjin
+2588,100004,上津,Shangjin
+2589,100005,上犹,Shangyou
+2590,100005,上犹,Shangyou
+2591,100006,上饶,Shangrao
+2592,100007,上高,Shanggao
+2593,100008,下博,Xiabo
+2594,100008,下博,Xiabo
+2595,100009,下蔡,Xiacai
+2596,100010,下邳,Xiapei
+2597,100010,下邳,Xiapei
+2598,100011,丹徒,Dantu
+2599,100011,丹徒,Dantu
+2600,100012,乘氏,Chengshi
+2601,100012,乘氏,Chengshi
+2602,100013,干宁,Qianning
+2603,100014,干宁镇,Qianning Zhen
+2604,100015,干德,Qiande
+2605,100016,井陉,Jingxing
+2606,100017,交城,Jiaocheng
+2607,100017,交城,Jiaocheng
+2608,100017,交城,Jiaocheng
+2609,100018,京兆郡,Jingzhao Jun
+2610,100019,仁化,Renhua
+2611,100021,仙源,Xianyuan
+2612,100022,仙游,Xianyou
+2613,100022,仙游,Xianyou
+2614,100023,任丘,Renqiu
+2615,100024,任县,Rencheng
+2616,100025,伊阳,Yiyang
+2617,100026,来安,Laian
+2618,100027,来宾,Laibin
+2619,100027,来宾,Laibin
+2620,100028,保定,Baoding
+2621,100031,信安,Xinan
+2622,100031,信安,Xinan
+2623,100032,信义,Xinyi
+2624,100033,信都,Xindu
+2625,100034,信阳,Xinyang
+2626,100034,信阳,Xinyang
+2627,100034,信阳,Xinyang
+2628,100034,信阳,Xinyang
+2629,100035,修仁,Xiuren
+2630,100035,修仁,Xiuren
+2631,100036,修武,Xiuwu
+2632,100037,偃师,Yanshi
+2633,100038,僰道,Bodao
+2634,100039,充羁縻州,Chong Jimizhou
+2635,100039,充羁縻州,Chong Jimizhou
+2636,100040,光化,Guanghua
+2637,100040,光化,Guanghua
+2638,100040,光化,Guanghua
+2639,100041,光山,Guangshan
+2640,100042,内丘,Neiqiu
+2641,100043,全义,Quanyi
+2642,100043,全义,Quanyi
+2643,100045,公安,Gongan
+2644,100045,公安,Gongan
+2645,100046,六合,Liuhe
+2646,100046,六合,Liuhe
+2647,100046,六合,Liuhe
+2648,100047,六安,Liuan
+2649,100047,六安,Liuan
+2650,100048,冤句,Yuangou
+2651,100048,冤句,Yuangou
+2652,100050,剑门,Jianmen
+2653,100050,剑门,Jianmen
+2654,100050,剑门,Jianmen
+2655,100051,务川,Wuchuan
+2656,100051,务川,Wuchuan
+2657,100052,北海,Beihai
+2658,100052,北海,Beihai
+2659,100053,南丹,Nandan
+2660,100054,南和,Nanhe
+2661,100055,南城,Nancheng
+2662,100055,南城,Nancheng
+2663,100055,南城,Nancheng
+2664,100057,南宫,Nangong
+2665,100058,南川,Nanchuan
+2666,100058,南川,Nanchuan
+2667,100058,南川,Nanchuan
+2668,100058,南川,Nanchuan
+2669,100058,南川,Nanchuan
+2670,100059,南平羁縻州,Nanping Jimizhou
+2671,100059,南平羁縻州,Nanping Jimizhou
+2672,100060,南康,Nankang
+2673,100060,南康,Nankang
+2674,100061,南广部,Nanguang Bu
+2675,100061,南广部,Nanguang Bu
+2676,100061,南广部,Nanguang Bu
+2677,100062,南昌,Nanchang
+2678,100063,南乐,Nanle
+2679,100063,南乐,Nanle
+2680,100063,南乐,Nanle
+2681,100063,南乐,Nanle
+2682,100063,南乐,Nanle
+2683,100064,南流,Nanliu
+2684,100064,南流,Nanliu
+2685,100065,南海,Nanhai
+2686,100066,南漳,Nanzhang
+2687,100067,南皮,Nanpi
+2688,100068,南羁縻州,Nan Jimizhou
+2689,100068,南羁縻州,Nan Jimizhou
+2690,100068,南羁縻州,Nan Jimizhou
+2691,100068,南羁縻州,Nan Jimizhou
+2692,100070,南华,Nanhua
+2693,100070,南华,Nanhua
+2694,100071,南丰,Nanfeng
+2695,100071,南丰,Nanfeng
+2696,100071,南丰,Nanfeng
+2697,100072,南阳,Nanyang
+2698,100073,南顿,Nandun
+2699,100073,南顿,Nandun
+2700,100074,博平,Boping
+2701,100074,博平,Boping
+2702,100075,博白,Bobai
+2703,100075,博白,Bobai
+2704,100076,博野,Boye
+2705,100076,博野,Boye
+2706,100076,博野,Boye
+2707,100077,原武,Yuanwu
+2708,100077,原武,Yuanwu
+2709,100078,合河,Hehe
+2710,100079,合浦,Hepu
+2711,100080,吉水,Jishui
+2712,100081,吉乡,Jixiang
+2713,100081,吉乡,Jixiang
+2714,100082,吉阳,Jiyang
+2715,100082,吉阳,Jiyang
+2716,100083,同谷,Tonggu
+2717,100083,同谷,Tonggu
+2718,100084,含洭,Hankuang
+2719,100084,含洭,Hankuang
+2720,100085,吴川,Wuchuan
+2721,100085,吴川,Wuchuan
+2722,100085,吴川,Wuchuan
+2723,100086,和川,Hechuan
+2724,100086,和川,Hechuan
+2725,100087,和顺,Heshun
+2726,100088,咸宁,Xianning
+2727,100089,商水,Shangshui
+2728,100089,商水,Shangshui
+2729,100090,嘉川,Jiachuan
+2730,100090,嘉川,Jiachuan
+2731,100090,嘉川,Jiachuan
+2732,100090,嘉川,Jiachuan
+2733,100091,四会,Sihui
+2734,100091,四会,Sihui
+2735,100091,四会,Sihui
+2736,100092,尧山,Yaoshan
+2737,100093,寿光,Shouguang
+2738,100094,寿安,Shouan
+2739,100097,大名,Daming
+2740,100097,大名,Daming
+2741,100098,大安军,Daan Jun
+2742,100099,大庾,Dayu
+2743,100099,大庾,Dayu
+2744,100100,大昌,Dachang
+2745,100100,大昌,Dachang
+2746,100100,大昌,Dachang
+2747,100100,大昌,Dachang
+2748,100101,大潭,Datan
+2749,100101,大潭,Datan
+2750,100101,大潭,Datan
+2751,100102,大竹,Dazhu
+2752,100102,大竹,Dazhu
+2753,100103,天水,Tianshui
+2754,100103,天水,Tianshui
+2755,100103,天水,Tianshui
+2756,100103,天水,Tianshui
+2757,100104,天河,Tianhe
+2758,100104,天河,Tianhe
+2759,100105,天长,Tianchang
+2760,100105,天长,Tianchang
+2761,100105,天长,Tianchang
+2762,100105,天长,Tianchang
+2763,100106,太平,Taiping
+2764,100107,太康,Taikang
+2765,100107,太康,Taikang
+2766,100107,太康,Taikang
+2767,100107,太康,Taikang
+2768,100108,夷羁縻州,Yi Jimizhou
+2769,100108,夷羁縻州,Yi Jimizhou
+2770,100109,夷陵,Yiling
+2771,100110,奉先,Fengxian
+2772,100110,奉先,Fengxian
+2773,100111,奉天,Fengtian
+2774,100111,奉天,Fengtian
+2775,100111,奉天,Fengtian
+2776,100112,好畤,Haozhi
+2777,100112,好畤,Haozhi
+2778,100112,好畤,Haozhi
+2779,100113,始兴,Shixing
+2780,100113,始兴,Shixing
+2781,100113,始兴,Shixing
+2782,100114,孝感,Xiaogan
+2783,100114,孝感,Xiaogan
+2784,100114,孝感,Xiaogan
+2785,100115,孝义,Xiaoyi
+2786,100117,安化,Anhua
+2787,100117,安化,Anhua
+2788,100117,安化,Anhua
+2789,100117,安化,Anhua
+2790,100118,安夷,Anyi
+2791,100118,安夷,Anyi
+2792,100119,安德,Ande
+2793,100122,安陆,Anlu
+2794,100122,安陆,Anlu
+2795,100122,安陆,Anlu
+2796,100124,定平,Dingping
+2797,100124,定平,Dingping
+2798,100125,定海,Dinghai
+2799,100125,定海,Dinghai
+2800,100126,定胡,Dinghu
+2801,100126,定胡,Dinghu
+2802,100127,定襄,Dingxiang
+2803,100129,定陶,Dingtao
+2804,100129,定陶,Dingtao
+2805,100129,定陶,Dingtao
+2806,100130,宛丘,Wanqiu
+2807,100130,宛丘,Wanqiu
+2808,100131,宜伦,Yilun
+2809,100131,宜伦,Yilun
+2810,100131,宜伦,Yilun
+2811,100132,宜春,Yichun
+2812,100133,宜宾,Yibin
+2813,100133,宜宾,Yibin
+2814,100133,宜宾,Yibin
+2815,100135,容城,Rongcheng
+2816,100135,容城,Rongcheng
+2817,100135,容城,Rongcheng
+2818,100136,宿迁,Suqian
+2819,100137,密县,Mi Xian
+2820,100137,密县,Mi Xian
+2821,100137,密县,Mi Xian
+2822,100139,富顺,Fushun
+2823,100139,富顺,Fushun
+2824,100139,富顺,Fushun
+2825,100139,富顺,Fushun
+2826,100139,富顺,Fushun
+2827,100139,富顺,Fushun
+2828,100140,富顺监,Fushun Jian
+2829,100140,富顺监,Fushun Jian
+2830,100140,富顺监,Fushun Jian
+2831,100140,富顺监,Fushun Jian
+2832,100141,宁化,Ninghua
+2833,100142,宁浦,Ningpu
+2834,100143,宁远,Ningyuan
+2835,100143,宁远,Ningyuan
+2836,100144,宁陵,Ningling
+2837,100144,宁陵,Ningling
+2838,100144,宁陵,Ningling
+2839,100144,宁陵,Ningling
+2840,100145,宝应,Baoying
+2841,100145,宝应,Baoying
+2842,100146,宝丰,Baofeng
+2843,100147,封川,Fengchuan
+2844,100147,封川,Fengchuan
+2845,100148,将利,Jiangli
+2846,100148,将利,Jiangli
+2847,100149,将乐,Jiangle
+2848,100149,将乐,Jiangle
+2849,100149,将乐,Jiangle
+2850,100150,将陵,Jiangling
+2851,100151,导江,Daojiang
+2852,100151,导江,Daojiang
+2853,100153,岑溪,Cenxi
+2854,100154,岳池,Yuechi
+2855,100154,岳池,Yuechi
+2856,100154,岳池,Yuechi
+2857,100154,岳池,Yuechi
+2858,100155,崇仁,Eshi
+2859,100156,崇信,Chongxin
+2860,100156,崇信,Chongxin
+2861,100156,崇信,Chongxin
+2862,100156,崇信,Chongxin
+2863,100157,崇阳,Chongyang
+2864,100158,昆山,Kunshan
+2865,100158,昆山,Kunshan
+2866,100159,岚谷,Langu
+2867,100159,岚谷,Langu
+2868,100160,巢县,Chao Xian
+2869,100160,巢县,Chao Xian
+2870,100161,巴东,Bachuan
+2871,100161,巴东,Bachuan
+2872,100162,巴陵,Baling
+2873,100163,常山,Changshan
+2874,100164,平利,Pingli
+2875,100164,平利,Pingli
+2876,100165,平南,Pingnan
+2877,100165,平南,Pingnan
+2878,100167,平城,Pingcheng
+2879,100168,平山,Pingshan
+2880,100169,平晋,Pingjin
+2881,100169,平晋,Pingjin
+2882,100170,平凉,Pingliang
+2883,100171,平乡,Pingxiang
+2884,100172,平阳,Pingyang
+2885,100172,平阳,Pingyang
+2886,100173,府谷,Fugu
+2887,100174,广德,Guangde
+2888,100174,广德,Guangde
+2889,100174,广德,Guangde
+2890,100175,广济,Guangji
+2891,100176,广都,Guangdu
+2892,100176,广都,Guangdu
+2893,100178,庐江,Lujiang
+2894,100178,庐江,Lujiang
+2895,100179,庐陵,Luling
+2896,100180,延川,Yanchuan
+2897,100181,建安,Jianan
+2898,100182,建宁,Jianning
+2899,100185,建昌,Jianchang
+2900,100185,建昌,Jianchang
+2901,100186,彭原,Pengyuan
+2902,100186,彭原,Pengyuan
+2903,100186,彭原,Pengyuan
+2904,100188,彭阳,Pengyang
+2905,100188,彭阳,Pengyang
+2906,100190,徐闻,Xuwen
+2907,100191,德化,Dehua
+2908,100191,德化,Dehua
+2909,100192,德安,Dean
+2910,100192,德安,Dean
+2911,100193,感德军节度,Gande junjiedu
+2912,100194,感恩,Ganen
+2913,100194,感恩,Ganen
+2914,100194,感恩,Ganen
+2915,100195,感义军节度,Ganyi junjiedu
+2916,100196,庆符,Qingfu
+2917,100196,庆符,Qingfu
+2918,100196,庆符,Qingfu
+2919,100196,庆符,Qingfu
+2920,100197,应城,Yingcheng
+2921,100197,应城,Yingcheng
+2922,100197,应城,Yingcheng
+2923,100198,应山,Yingshan
+2924,100198,应山,Yingshan
+2925,100198,应山,Yingshan
+2926,100198,应山,Yingshan
+2927,100199,怀仁,Huairen
+2928,100201,怀远,Huaiyuan
+2929,100201,怀远,Huaiyuan
+2930,100202,成安,Chengan
+2931,100202,成安,Chengan
+2932,100203,成纪,Chengji
+2933,100204,房陵,Fangling
+2934,100205,招信,Zhaoxin
+2935,100205,招信,Zhaoxin
+2936,100205,招信,Zhaoxin
+2937,100205,招信,Zhaoxin
+2938,100205,招信,Zhaoxin
+2939,100206,招安,Zhaoan
+2940,100207,招谕,Zhaoyu
+2941,100207,招谕,Zhaoyu
+2942,100208,揭阳,Jieyang
+2943,100209,文安,Wenan
+2944,100210,文昌,Wenchang
+2945,100210,文昌,Wenchang
+2946,100211,新喻,Xinyu
+2947,100211,新喻,Xinyu
+2948,100213,新宁,Xinning
+2949,100213,新宁,Xinning
+2950,100213,新宁,Xinning
+2951,100215,新明,Xinming
+2952,100215,新明,Xinming
+2953,100215,新明,Xinming
+2954,100215,新明,Xinming
+2955,100216,新会,Xinhui
+2956,100217,新淦,Xingan
+2957,100217,新淦,Xingan
+2958,100218,新兴,Xinxing
+2959,100219,新乡,Xinxiang
+2960,100220,新郑,Xinzheng
+2961,100220,新郑,Xinzheng
+2962,100220,新郑,Xinzheng
+2963,100220,新郑,Xinzheng
+2964,100221,方城,Fangcheng
+2965,100222,昌化,Changhua
+2966,100223,易县,Yi Xian
+2967,100223,易县,Yi Xian
+2968,100224,星子,Xingzi
+2969,100224,星子,Xingzi
+2970,100224,星子,Xingzi
+2971,100225,昨城,Zuocheng
+2972,100225,昨城,Zuocheng
+2973,100225,昨城,Zuocheng
+2974,100227,昭义,Zhaoyi
+2975,100227,昭义,Zhaoyi
+2976,100228,晋江,Jinjiang
+2977,100229,普宁,Puning
+2978,100330,景陵,Jingling
+2979,100330,景陵,Jingling
+2980,100331,曲周,Quzhou
+2981,100332,曲江,Qujiang
+2982,100333,会同,Huitong
+2983,100333,会同,Huitong
+2984,100334,朐山,Qushan
+2985,100335,朝城,Chaocheng
+2986,100335,朝城,Chaocheng
+2987,100335,朝城,Chaocheng
+2988,100336,朱阳,Zhuyang
+2989,100337,束鹿,Shulu
+2990,100337,束鹿,Shulu
+2991,100338,束城,Shucheng
+2992,100339,东光,Dongguang
+2993,100339,东光,Dongguang
+2994,100339,东光,Dongguang
+2995,100340,东流,Dongliu
+2996,100340,东流,Dongliu
+2997,100340,东流,Dongliu
+2998,100341,东海,Donghai
+2999,100342,东莞,Dongguan
+3000,100343,东乡,Dongxiang
+3001,100343,东乡,Dongxiang
+3002,100343,东乡,Dongxiang
+3003,100344,松滋,Songzi
+3004,100345,枝江,Zhijiang
+3005,100346,柏乡,Baixiang
+3006,100347,柘城,Zhecheng
+3007,100347,柘城,Zhecheng
+3008,100347,柘城,Zhecheng
+3009,100347,柘城,Zhecheng
+3010,100349,栗亭,Liting
+3011,100349,栗亭,Liting
+3012,100350,桂岭,Guiling
+3013,100350,桂岭,Guiling
+3014,100351,桂阳,Guiyang
+3015,100351,桂阳,Guiyang
+3016,100352,桐庐,Tonglu
+3017,100352,桐庐,Tonglu
+3018,100352,桐庐,Tonglu
+3019,100353,梁山,Liangshan
+3020,100353,梁山,Liangshan
+3021,100353,梁山,Liangshan
+3022,100353,梁山,Liangshan
+3023,100354,梁泉,Liangquan
+3024,100354,梁泉,Liangquan
+3025,100355,枣强,Zaoqiang
+3026,100356,枣阳,Zaoyang
+3027,100356,枣阳,Zaoyang
+3028,100357,楚丘,Chuqiu
+3029,100357,楚丘,Chuqiu
+3030,100357,楚丘,Chuqiu
+3031,100357,楚丘,Chuqiu
+3032,100358,榆社,Yushe
+3033,100359,乐寿,Leshou
+3034,100359,乐寿,Leshou
+3035,100360,乐平,Leping
+3036,100360,乐平,Leping
+3037,100361,乐昌,Lechang
+3038,100362,乐源,Leyuan
+3039,100362,乐源,Leyuan
+3040,100363,乐至,Lezhi
+3041,100363,乐至,Lezhi
+3042,100364,武功,Wugong
+3043,100364,武功,Wugong
+3044,100365,武化,Wuhua
+3045,100366,武宁,Wuning
+3046,100367,武冈,Wugang
+3047,100367,武冈,Wugang
+3048,100368,武康,Wukang
+3049,100368,武康,Wukang
+3050,100369,武成军节度,Wucheng junjiedu
+3051,100370,武昌,Wuchang
+3052,100370,武昌,Wuchang
+3053,100371,武郎,Wulang
+3054,100371,武郎,Wulang
+3055,100372,武乡,Wuxiang
+3056,100372,武乡,Wuxiang
+3057,100373,武陟,Wuzhi
+3058,100374,武陵,Wuling
+3059,100375,武龙,Wulong
+3060,100375,武龙,Wulong
+3061,100376,归化,Guihua
+3062,100376,归化,Guihua
+3063,100378,永寿,Yongshou
+3064,100378,永寿,Yongshou
+3065,100378,永寿,Yongshou
+3066,100380,永定,Yongding
+3067,100380,永定,Yongding
+3068,100381,永宁,Yongning
+3069,100381,永宁,Yongning
+3070,100383,永康,Yongkang
+3071,100383,永康,Yongkang
+3072,100385,永明,Yongming
+3073,100386,永正,Yongzheng
+3074,100386,永正,Yongzheng
+3075,100386,永正,Yongzheng
+3076,100387,永泰,Yongtai
+3077,100387,永泰,Yongtai
+3078,100387,永泰,Yongtai
+3079,100388,永清,Yongqing
+3080,100388,永清,Yongqing
+3081,100391,永丰,Yongfeng
+3082,100392,汜水,Sishui
+3083,100393,汝阴,Ruyin
+3084,100394,江阴,Jiangyin
+3085,100394,江阴,Jiangyin
+3086,100395,江陵,Jiangling
+3087,100396,汧阳,Qianyang
+3088,100397,汲县,Ji Xian
+3089,100398,沁源,Qinyuan
+3090,100398,沁源,Qinyuan
+3091,100399,沅江,Yuanjiang
+3092,100399,沅江,Yuanjiang
+3093,100400,沔阳,Mianyang
+3094,100401,沭阳,Shuyang
+3095,100402,河南,Henan
+3096,100403,河东,Hedong
+3097,100404,河池,Hechi
+3098,100404,河池,Hechi
+3099,100405,河西,Hexi
+3100,100407,泰兴,Taixing
+3101,100407,泰兴,Taixing
+3102,100408,洛漕,Luocao
+3103,100408,洛漕,Luocao
+3104,100409,洛阳,Luoyang
+3105,100410,洪雅,Hongya
+3106,100410,洪雅,Hongya
+3107,100411,洵阳,Xunyang
+3108,100411,洵阳,Xunyang
+3109,100412,流江,Liujiang
+3110,100412,流江,Liujiang
+3111,100413,流溪,Liuxi
+3112,100413,流溪,Liuxi
+3113,100414,海康,Haikang
+3114,100415,海门,Haimen
+3115,100416,海陵,Hailing
+3116,100417,海阳,Haiyang
+3117,100418,涉县,She Xian
+3118,100419,深泽,Shenze
+3119,100420,淳化,Chunhua
+3120,100420,淳化,Chunhua
+3121,100421,涞水,Laishui
+3122,100421,涞水,Laishui
+3123,100422,清化,Qinghua
+3124,100422,清化,Qinghua
+3125,100422,清化,Qinghua
+3126,100422,清化,Qinghua
+3127,100424,清江,Qingjiang
+3128,100424,清江,Qingjiang
+3129,100425,清池,Qingchi
+3130,100427,清流,Qingliu
+3131,100429,清丰,Qingfeng
+3132,100429,清丰,Qingfeng
+3133,100429,清丰,Qingfeng
+3134,100429,清丰,Qingfeng
+3135,100430,渠江,Qujiang
+3136,100430,渠江,Qujiang
+3137,100431,渠阳,Quyang
+3138,100431,渠阳,Quyang
+3139,100431,渠阳,Quyang
+3140,100432,渤海,Bohai
+3141,100433,渭南,Weinan
+3142,100434,湖口,Hukou
+3143,100434,湖口,Hukou
+3144,100435,湖城,Hucheng
+3145,100435,湖城,Hucheng
+3146,100436,湘阴,Xiangyin
+3147,100437,湟州,Huang Zhou
+3148,100438,溱羁縻州,Zhen Jimizhou
+3149,100438,溱羁縻州,Zhen Jimizhou
+3150,100438,溱羁縻州,Zhen Jimizhou
+3151,100438,溱羁縻州,Zhen Jimizhou
+3152,100439,荥泽,Xingze
+3153,100439,荥泽,Xingze
+3154,100440,荥阳,Xingyang
+3155,100440,荥阳,Xingyang
+3156,100441,汉川,Hanchuan
+3157,100441,汉川,Hanchuan
+3158,100442,汉阴,Hanyin
+3159,100442,汉阴,Hanyin
+3160,100443,汉阳,Hanyang
+3161,100443,汉阳,Hanyang
+3162,100444,涟水,Lianshui
+3163,100444,涟水,Lianshui
+3164,100444,涟水,Lianshui
+3165,100444,涟水,Lianshui
+3166,100445,颍阳,Yingyang
+3167,100446,潞城,Lucheng
+3168,100447,潮阳,Chaoyang
+3169,100448,澄迈,Chengmai
+3170,100448,澄迈,Chengmai
+3171,100449,济阴,Jiyin
+3172,100449,济阴,Jiyin
+3173,100450,濮阳,Puyang
+3174,100450,濮阳,Puyang
+3175,100450,濮阳,Puyang
+3176,100450,濮阳,Puyang
+3177,100451,泸川,Luchuan
+3178,100451,泸川,Luchuan
+3179,100452,泷水,Longshui
+3180,100452,泷水,Longshui
+3181,100452,泷水,Longshui
+3182,100453,乌江,Wujiang
+3183,100454,无极,Wuji
+3184,100454,无极,Wuji
+3185,100455,熙州,Xi Zhou
+3186,100456,营道,Yingdao
+3187,100457,狄道,Didao
+3188,100458,获嘉,Huojia
+3189,100458,获嘉,Huojia
+3190,100459,获鹿,Huolu
+3191,100460,玉沙,Yusha
+3192,100460,玉沙,Yusha
+3193,100461,王屋,Wangwu
+3194,100461,王屋,Wangwu
+3195,100462,瑞昌,Ruichang
+3196,100462,瑞昌,Ruichang
+3197,100463,瓯宁,Ouning
+3198,100464,番禺,Panyu
+3199,100465,当阳,Dangyang
+3200,100465,当阳,Dangyang
+3201,100465,当阳,Dangyang
+3202,100466,白马,Baima
+3203,100466,白马,Baima
+3204,100466,白马,Baima
+3205,100467,百丈,Baizhang
+3206,100468,盈川,Yingchuan
+3207,100469,益阳,Yiyang
+3208,100469,益阳,Yiyang
+3209,100470,监利,Jianli
+3210,100471,卢氏,Lushi
+3211,100472,盱眙,Xuyi
+3212,100472,盱眙,Xuyi
+3213,100472,盱眙,Xuyi
+3214,100472,盱眙,Xuyi
+3215,100472,盱眙,Xuyi
+3216,100476,石泉,Shiquan
+3217,100476,石泉,Shiquan
+3218,100477,石首,Shishou
+3219,100478,石龙,Shilong
+3220,100478,石龙,Shilong
+3221,100479,硖石,Xiashi
+3222,100479,硖石,Xiashi
+3223,100480,磐石,Panshi
+3224,100480,磐石,Panshi
+3225,100481,祐川,Youchuan
+3226,100481,祐川,Youchuan
+3227,100482,神泉,Shenquan
+3228,100482,神泉,Shenquan
+3229,100483,福昌,Fuchang
+3230,100485,秀容,Xiurong
+3231,100486,秬羁縻州,Ju Jimizhou
+3232,100486,秬羁縻州,Ju Jimizhou
+3233,100487,秭归,Zigui
+3234,100487,秭归,Zigui
+3235,100488,程乡,Chengxiang
+3236,100488,程乡,Chengxiang
+3237,100488,程乡,Chengxiang
+3238,100488,程乡,Chengxiang
+3239,100489,稷山,Jishan
+3240,100490,谷城,Gucheng
+3241,100490,谷城,Gucheng
+3242,100490,谷城,Gucheng
+3243,100491,立山,Lishan
+3244,100491,立山,Lishan
+3245,100492,章丘,Zhangqiu
+3246,100493,竹山,Zhushan
+3247,100494,管城,Guancheng
+3248,100494,管城,Guancheng
+3249,100494,管城,Guancheng
+3250,100494,管城,Guancheng
+3251,100495,籍县,Ji Xian
+3252,100495,籍县,Ji Xian
+3253,100496,米脂寨,Mizhi Zhai
+3254,100496,米脂寨,Mizhi Zhai
+3255,100497,绥宁,Suining
+3256,100498,绥德城,Suide Cheng
+3257,100498,绥德城,Suide Cheng
+3258,100499,绥阳,Suiyang
+3259,100499,绥阳,Suiyang
+3260,100500,绵上,Mianshang
+3261,100500,绵上,Mianshang
+3262,100500,绵上,Mianshang
+3263,100501,繁昌,Fanchang
+3264,100501,繁昌,Fanchang
+3265,100501,繁昌,Fanchang
+3266,100502,罗山,Luoshan
+3267,100502,罗山,Luoshan
+3268,100502,罗山,Luoshan
+3269,100502,罗山,Luoshan
+3270,100503,罗氏部,Luoshi Bu
+3271,100503,罗氏部,Luoshi Bu
+3272,100504,罗田,Luotian
+3273,100505,罗蒙,Luomeng
+3274,100505,罗蒙,Luomeng
+3275,100506,罗辨,Luobian
+3276,100506,罗辨,Luobian
+3277,100506,罗辨,Luobian
+3278,100507,义宁,Yining
+3279,100507,义宁,Yining
+3280,100508,考城,Kaocheng
+3281,100508,考城,Kaocheng
+3282,100508,考城,Kaocheng
+3283,100508,考城,Kaocheng
+3284,100509,肤施,Fushi
+3285,100509,肤施,Fushi
+3286,100510,胶西,Jiaoxi
+3287,100511,临城,Lincheng
+3288,100512,临安,Linan
+3289,100512,临安,Linan
+3290,100513,临川,Linchuan
+3291,100514,临桂,Lingui
+3292,100514,临桂,Lingui
+3293,100516,临河,Linhe
+3294,100516,临河,Linhe
+3295,100516,临河,Linhe
+3296,100516,临河,Linhe
+3297,100517,临泉,Linquan
+3298,100517,临泉,Linquan
+3299,100519,临涣,Linhuan
+3300,100519,临涣,Linhuan
+3301,100520,临颍,Linying
+3302,100520,临颍,Linying
+3303,100521,临贺,Linhe
+3304,100521,临贺,Linhe
+3305,100522,兴化,Xinghua
+3306,100522,兴化,Xinghua
+3307,100523,兴宁,Xingning
+3308,100524,兴山,Xingshan
+3309,100524,兴山,Xingshan
+3310,100525,舍城,Shecheng
+3311,100525,舍城,Shecheng
+3312,100526,舞阳,Wuyang
+3313,100526,舞阳,Wuyang
+3314,100527,良山,Liangshan
+3315,100527,良山,Liangshan
+3316,100528,茂名,Maoming
+3317,100528,茂名,Maoming
+3318,100528,茂名,Maoming
+3319,100529,茶陵,Chaling
+3320,100529,茶陵,Chaling
+3321,100530,荔浦,Lipu
+3322,100530,荔浦,Lipu
+3323,100531,莆田,Putian
+3324,100531,莆田,Putian
+3325,100532,华亭,Huating
+3326,100532,华亭,Huating
+3327,100532,华亭,Huating
+3328,100534,万宁,Wanning
+3329,100535,万载,Wanzai
+3330,100535,万载,Wanzai
+3331,100536,蒲城,Pucheng
+3332,100536,蒲城,Pucheng
+3333,100537,蒲阴,Puyin
+3334,100537,蒲阴,Puyin
+3335,100538,蓬溪,Pengxi
+3336,100538,蓬溪,Pengxi
+3337,100538,蓬溪,Pengxi
+3338,100539,芜湖,Wuhu
+3339,100539,芜湖,Wuhu
+3340,100539,芜湖,Wuhu
+3341,100540,蓝山,Lanshan
+3342,100540,蓝山,Lanshan
+3343,100540,蓝山,Lanshan
+3344,100541,蕲春,Qichun
+3345,100542,蕲水,Qishui
+3346,100543,虹县,Hong Xian
+3347,100543,虹县,Hong Xian
+3348,100544,融水,Rongshui
+3349,100545,行唐,Xingtang
+3350,100546,卫南,Weinan
+3351,100546,卫南,Weinan
+3352,100546,卫南,Weinan
+3353,100546,卫南,Weinan
+3354,100547,卫县,Wei Xian
+3355,100547,卫县,Wei Xian
+3356,100547,卫县,Wei Xian
+3357,100548,衡山,Hengshan
+3358,100548,衡山,Hengshan
+3359,100549,衡阳,Hengyang
+3360,100550,襄邑,Xiangyi
+3361,100550,襄邑,Xiangyi
+3362,100550,襄邑,Xiangyi
+3363,100550,襄邑,Xiangyi
+3364,100551,襄陵,Xiangling
+3365,100552,西城,Xicheng
+3366,100552,西城,Xicheng
+3367,100553,西县,Xi Xian
+3368,100553,西县,Xi Xian
+3369,100553,西县,Xi Xian
+3370,100553,西县,Xi Xian
+3371,100554,西华,Xihua
+3372,100554,西华,Xihua
+3373,100555,观城,Guancheng
+3374,100555,观城,Guancheng
+3375,100555,观城,Guancheng
+3376,100555,观城,Guancheng
+3377,100556,许田,Xutian
+3378,100556,许田,Xutian
+3379,100557,贵平,Guiping
+3380,100557,贵平,Guiping
+3381,100558,赞皇,Zanhuang
+3382,100559,赣县,Gan Xian
+3383,100560,赤水,Chishui
+3384,100560,赤水,Chishui
+3385,100561,赵城,Zhaocheng
+3386,100562,通化,Tonghua
+3387,100562,通化,Tonghua
+3388,100563,通城,Tongcheng
+3389,100564,通山,Tongshan
+3390,100564,通山,Tongshan
+3391,100564,通山,Tongshan
+3392,100565,通明,Tongming
+3393,100565,通明,Tongming
+3394,100566,通江,Tongjiang
+3395,100566,通江,Tongjiang
+3396,100566,通江,Tongjiang
+3397,100566,通江,Tongjiang
+3398,100568,连山,Lianshan
+3399,100569,遂城,Suicheng
+3400,100569,遂城,Suicheng
+3401,100569,遂城,Suicheng
+3402,100569,遂城,Suicheng
+3403,100570,遂宁,Suining
+3404,100570,遂宁,Suining
+3405,100570,遂宁,Suining
+3406,100571,遂溪,Suixi
+3407,100574,辽山,Liaoshan
+3408,100574,辽山,Liaoshan
+3409,100575,邛水,Qiongshui
+3410,100575,邛水,Qiongshui
+3411,100576,邦羁縻州,Bang Jimizhou
+3412,100576,邦羁縻州,Bang Jimizhou
+3413,100577,邵武,Shaowu
+3414,100577,邵武,Shaowu
+3415,100578,郏城,Jiacheng
+3416,100578,郏城,Jiacheng
+3417,100578,郏城,Jiacheng
+3418,100579,郴县,Chen Xian
+3419,100580,都昌,Duchang
+3420,100580,都昌,Duchang
+3421,100580,都昌,Duchang
+3422,100581,郾城,Yancheng
+3423,100581,郾城,Yancheng
+3424,100582,邹县,Zou Xian
+3425,100583,郧乡,Yunxiang
+3426,100584,鄞县,Yin Xian
+3427,100584,鄞县,Yin Xian
+3428,100585,郑县,Zheng Xian
+3429,100586,醴泉,Liquan
+3430,100586,醴泉,Liquan
+3431,100587,金堂,Jintang
+3432,100587,金堂,Jintang
+3433,100587,金堂,Jintang
+3434,100588,金水,Jinshui
+3435,100588,金水,Jinshui
+3436,100588,金水,Jinshui
+3437,100589,巨鹿,Julu
+3438,100590,银川城,Yinchuan Cheng
+3439,100592,铜鞮,Tongdi
+3440,100593,长林,Changlin
+3441,100593,长林,Changlin
+3442,100593,长林,Changlin
+3443,100594,长乐,Changle
+3444,100595,长武,Changwu
+3445,100596,长汀,Changting
+3446,100597,长沙,Changsha
+3447,100598,长泰,Changtai
+3448,100598,长泰,Changtai
+3449,100599,长社,Changshe
+3450,100599,长社,Changshe
+3451,100600,长葛,Changge
+3452,100600,长葛,Changge
+3453,100602,开建,Kaijian
+3454,100602,开建,Kaijian
+3455,100603,阌乡,Wenxiang
+3456,100603,阌乡,Wenxiang
+3457,100604,阜城,Fucheng
+3458,100604,阜城,Fucheng
+3459,100604,阜城,Fucheng
+3460,100605,陕县,Shan Xian
+3461,100606,陵水,Lingshui
+3462,100606,陵水,Lingshui
+3463,100607,陆川,Luchuan
+3464,100608,阳春,Yangchun
+3465,100608,阳春,Yangchun
+3466,100609,阳江,Yangjiang
+3467,100609,阳江,Yangjiang
+3468,100610,阳翟,Yangdi
+3469,100610,阳翟,Yangdi
+3470,100611,隆化,Longhua
+3471,100611,隆化,Longhua
+3472,100611,隆化,Longhua
+3473,100611,隆化,Longhua
+3474,100612,随县,Sui Xian
+3475,100613,鸡泽,Jize
+3476,100614,难江,Nanjiang
+3477,100614,难江,Nanjiang
+3478,100614,难江,Nanjiang
+3479,100614,难江,Nanjiang
+3480,100615,雩都,Yudu
+3481,100616,云梦,Yunmeng
+3482,100616,云梦,Yunmeng
+3483,100616,云梦,Yunmeng
+3484,100617,云安,Yunan
+3485,100617,云安,Yunan
+3486,100617,云安,Yunan
+3487,100617,云安,Yunan
+3488,100618,零陵,Lingling
+3489,100619,电白,Dianbai
+3490,100620,灵寿,Lingshou
+3491,100621,灵石,Lingshi
+3492,100622,青城,Qingcheng
+3493,100622,青城,Qingcheng
+3494,100623,青涧城,Qingjian Cheng
+3495,100623,青涧城,Qingjian Cheng
+3496,100623,青涧城,Qingjian Cheng
+3497,100624,青石,Qingshi
+3498,100624,青石,Qingshi
+3499,100624,青石,Qingshi
+3500,100625,青苑,Qingyuan
+3501,100625,青苑,Qingyuan
+3502,100626,青阳,Qingyang
+3503,100626,青阳,Qingyang
+3504,100627,静乐,Jingle
+3505,100627,静乐,Jingle
+3506,100628,韦城,Weicheng
+3507,100628,韦城,Weicheng
+3508,100628,韦城,Weicheng
+3509,100629,项城,Hancheng
+3510,100629,项城,Hancheng
+3511,100630,顺安军,Shunan Jun
+3512,100630,顺安军,Shunan Jun
+3513,100631,顿丘,Dunqiu
+3514,100631,顿丘,Dunqiu
+3515,100631,顿丘,Dunqiu
+3516,100632,余干,Yugan
+3517,100633,高安,Gaoan
+3518,100634,高密,Gaomi
+3519,100635,高苑,Gaoyuan
+3520,100635,高苑,Gaoyuan
+3521,100636,高邑,Gaoyi
+3522,100637,高邮,Gaoyou
+3523,100637,高邮,Gaoyou
+3524,100638,高阳,Gaoyang
+3525,100638,高阳,Gaoyang
+3526,100638,高阳,Gaoyang
+3527,100638,高阳,Gaoyang
+3528,100639,鲁山,Lushan
+3529,100640,盐城,Yancheng
+3530,100640,盐城,Yancheng
+3531,100640,盐城,Yancheng
+3532,100641,黎城,Licheng
+3533,100642,黎阳,Liyang
+3534,100642,黎阳,Liyang
+3535,100642,黎阳,Liyang
+3536,100643,鼓城,Gucheng
+3537,100643,鼓城,Gucheng
+3538,100644,龙化,Longhua
+3539,100644,龙化,Longhua
+3540,100644,龙化,Longhua
+3541,100645,龙南,Longnan
+3542,100646,龙安,Longan
+3543,100646,龙安,Longan
+3544,100647,龙川,Longchuan
+3545,100648,龙平,Longping
+3546,100648,龙平,Longping
+3547,100648,龙平,Longping
+3548,100650,龙泉,Longquan
+3549,100652,龙兴,Longxing
+3550,100654,龙阳,Longyang
+3551,100654,龙阳,Longyang
+3552,100655,铜陵,Tongling
+3553,100655,铜陵,Tongling
+3554,100655,铜陵,Tongling
+3555,100656,长垣,Changyuan
+3556,100656,长垣,Changyuan
+3557,100657,长道,Changdao
+3558,100657,长道,Changdao
+3559,100657,长道,Changdao
+3560,100658,开封,Kaifeng
+3561,100658,开封,Kaifeng
+3562,100659,陈留,Chenliu
+3563,100659,陈留,Chenliu
+3564,100660,雍丘,Yongqiu
+3565,100660,雍丘,Yongqiu
+3566,100661,中牟,Zhongmou
+3567,100661,中牟,Zhongmou
+3568,100662,咸平,Xianping
+3569,100662,咸平,Xianping
+3570,100663,封丘,Fengqiu
+3571,100663,封丘,Fengqiu
+3572,100664,尉氏,Weishi
+3573,100664,尉氏,Weishi
+3574,100665,延津,Yanjin
+3575,100665,延津,Yanjin
+3576,100666,扶沟,Fugou
+3577,100666,扶沟,Fugou
+3578,100667,东明,Dongming
+3579,100667,东明,Dongming
+3580,100668,石泉,Shiquan
+3581,100668,石泉,Shiquan
+3582,100668,石泉,Shiquan
+3583,100669,祥符,Xiangfu
+3584,100669,祥符,Xiangfu
+3585,100670,鄢陵,Yanling
+3586,100670,鄢陵,Yanling
+3587,100671,酸枣,Suanzao
+3588,100671,酸枣,Suanzao
+3589,100672,阳武,Yangwu
+3590,100672,阳武,Yangwu
+3591,100673,龙泉,Longquan
+3592,100674,定安,Dingan
+3593,100674,定安,Dingan
+3594,100675,宁远,Ningyuan
+3595,100675,宁远,Ningyuan
+3596,100676,吴县,Wuxian
+3597,100677,长洲,Changzhou
+3598,100678,常熟,Changshu
+3599,100679,吴江,Wujiang
+3600,100680,香山,Xiangshan
+3601,101000,拱州,Gong Zhou
+3602,101000,拱州,Gong Zhou
+3603,101003,开德府,Kaide Fu
+3604,101003,开德府,Kaide Fu
+3605,101004,曹州,Cao Zhou
+3606,101004,曹州,Cao Zhou
+3607,101005,广济军,Guangji Jun
+3608,101006,随州,Sui Zhou
+3609,101007,光化军,Guanghua Jun
+3610,101008,颍昌府,Yingchang Fu
+3611,101008,颍昌府,Yingchang Fu
+3612,101009,郑州,Zheng Zhou
+3613,101009,郑州,Zheng Zhou
+3614,101010,滑州,Hua Zhou
+3615,101011,陈州,Chen Zhou
+3616,101011,陈州,Chen Zhou
+3617,101012,大名府,Daming Fu
+3618,101014,通利军,Tongli Jun
+3619,101015,银州,Yin Zhou
+3620,101016,宪州,Xian Zhou
+3621,101017,辽州,Liao Zhou
+3622,101018,慈州,Ci Zhou
+3623,101019,海州,Hai Zhou
+3624,101020,高邮军,Gaoyou Jun
+3625,101021,涟水军,Lianshui Jun
+3626,101022,天长军,Tianchang Jun
+3627,101023,寿春府,Shouchun Fu
+3628,101024,安丰军,Anfeng Jun
+3629,101025,蕲州,Qi Zhou
+3630,101026,光州,Guang Zhou
+3631,101027,六安军,Luan Jun
+3632,101028,江阴军,Jiangyin Jun
+3633,101029,江宁府,Jiangning Fu
+3634,101030,德安府,Dean Fu
+3635,101031,岳州,Yue Zhou
+3636,101033,荆门军,Jingmen Jun
+3637,101034,复州,Fu Zhou
+3638,101035,汉阳军,Hanyang Jun
+3639,101036,成都府,Chengdu Fu
+3640,101036,成都府,Chengdu Fu
+3641,101037,永安军,Yongkang Jun
+3642,101038,石泉军,Shiquan Jun
+3643,101039,三泉,Sanquan
+3644,101039,三泉,Sanquan
+3645,101039,三泉,Sanquan
+3646,101039,三泉,Sanquan
+3647,101039,三泉,Sanquan
+3648,101040,龙州,Long Zhou
+3649,101040,龙州,Long Zhou
+3650,101041,遵义军,Zunyi Jun
+3651,101042,思州,Si Zhou
+3652,101043,播州,Bo Zhou
+3653,101044,归州,Gui Zhou
+3654,101044,归州,Gui Zhou
+3655,101045,罗殿,Luodian
+3656,101045,罗殿,Luodian
+3657,101046,封州,Feng Zhou
+3658,101047,梅州,Mei Zhou
+3659,101048,龚州,Gong Zhou
+3660,101049,高州,Gao Zhou
+3661,101050,白州,Bai Zhou
+3662,101051,昌化军,Changhua Jun
+3663,101052,吉阳军,Jiyang Jun
+3664,101052,吉阳军,Jiyang Jun
+3665,101056,齐州,Qi Zhou
+3666,101057,郓州,Yun Zhou
+3667,101058,应天府,Yingtian Fu
+3668,101059,兖州,Yan Zhou
+3669,101060,颍州,Ying Zhou
+3670,101061,瀛州,Ying Zhou
+3671,101062,恩州,En Zhou
+3672,101063,永静军,Yongjing Jun
+3673,101064,干宁军,Qianning Jun
+3674,101065,信安军,Xinan Jun
+3675,101065,信安军,Xinan Jun
+3676,101066,保定军,Baoding Jun
+3677,101066,保定军,Baoding Jun
+3678,101067,定州,Ding Zhou
+3679,101068,邢州,Xing Zhou
+3680,101069,赵州,Zhao Zhou
+3681,101070,保州,Bao Zhou
+3682,101071,安肃军,Ansu Jun
+3683,101072,永宁军,Yongning Jun
+3684,101073,广信军,Guangxin Jun
+3685,101074,延州,Yan Zhou
+3686,101075,庆州,Qing Zhou
+3687,101076,环州,Huan Zhou
+3688,101077,通远军,Tongyuan Jun
+3689,101077,通远军,Tongyuan Jun
+3690,101078,乐州,Le Zhou
+3691,101079,仪州,Yi Zhou
+3692,101080,太原府,Taiyuan Fu
+3693,101081,潞州,Lu Zhou
+3694,101082,晋州,Jin Zhou
+3695,101083,保德军,Baode Jun
+3696,101083,保德军,Baode Jun
+3697,101084,大通监,Datong Jian
+3698,101085,真州,Zhen Zhou
+3699,101086,通州,Tong Zhou
+3700,101087,淮安州,Huaian Zhou
+3701,101088,杭州,Hang Zhou
+3702,101089,平江府,Pingjiang Fu
+3703,101090,镇江府,Zhenjiang Fu
+3704,101091,秀州,Xiu Zhou
+3705,101092,湖州,Hu Zhou
+3706,101093,严州,Yan Zhou
+3707,101094,绍兴府,Shaoxing Fu
+3708,101095,明州,Ming Zhou
+3709,101096,温州,Wen Zhou
+3710,101097,宣州,Xuan Zhou
+3711,101098,徽州,Hui Zhou
+3712,101099,洪州,Hong Zhou
+3713,101100,虔州,Qian Zhou
+3714,101101,筠州,Yun Zhou
+3715,101102,兴国军,Xingguo Jun
+3716,101103,建昌军,Jianchang Jun
+3717,101104,邵州,Shao Zhou
+3718,101105,桂阳军,Guiyang Jun
+3719,101106,常德府,Changde Fu
+3720,101107,靖州,Jing Zhou
+3721,101108,蜀州,Shu Zhou
+3722,101109,嘉州,Jia Zhou
+3723,101110,威州,Wei Zhou
+3724,101111,隆州,Long Zhou
+3725,101112,潼川府,Tongchuan Fu
+3726,101113,遂宁府,Suining Fu
+3727,101114,果州,Guo Zhou
+3728,101114,果州,Guo Zhou
+3729,101115,泸州,Lu Zhou
+3730,101115,泸州,Lu Zhou
+3731,101116,叙州,Xu Zhou
+3732,101117,广安军,Guangan Jun
+3733,101117,广安军,Guangan Jun
+3734,101119,剑州,Jian Zhou
+3735,101119,剑州,Jian Zhou
+3736,101120,兴州,Xing Zhou
+3737,101120,兴州,Xing Zhou
+3738,101121,黔州,Qian Zhou
+3739,101121,黔州,Qian Zhou
+3740,101122,达州,Da Zhou
+3741,101122,达州,Da Zhou
+3742,101123,忠州,Zhong Zhou
+3743,101123,忠州,Zhong Zhou
+3744,101124,重庆府,Chongqing Fu
+3745,101125,建州,Jian Zhou
+3746,101126,南剑州,Nanjian Zhou
+3747,101127,肇庆府,Zhaoqing Fu
+3748,101128,德庆府,Deqing Fu
+3749,101129,南雄州,Nanxiong Zhou
+3750,101130,英州,Ying Zhou
+3751,101131,静江府,Jingjiang Fu
+3752,101132,宜州,Yi Zhou
+3753,101133,化州,Hua Zhou
+3754,101134,廉州,Lian Zhou
+3755,101135,万安州,Wanan Zhou
+3756,101136,思唐州,Sitang Zhou
+3757,101137,仪真郡,Yizhen jun
+3758,101138,魏郡,Wei jun
+3759,101139,清江郡,Qingjiang jun
+3760,101139,清江郡,Qingjiang jun
+3761,101140,南仪州,Nanyi zhou
+3762,101141,零陵郡,Lingling jun
+3763,101142,顺昌军节度,Shunchang Jun
+3764,101143,静安军节度,Jing'an Jun
+3765,101144,靖江军节度,Jingjiang Jun
+3766,101145,云安军节度,Yun'an Jun
+3767,101146,云南军节度,Yunnan Jun
+3768,101147,集庆军节度,Jiqing Jun
+3769,101148,雄远军节度,Xiongyuan Jun
+3770,101149,陆海军节度,Luhai Jun
+3771,101150,陜府军节度,Shanfu Jun
+3772,101151,镇洮军节度,Zhentao Jun
+3773,101152,镇武军节度,Zhenwu Jun
+3774,101153,镇宁军节度,Zhenning Jun
+3775,101153,镇宁军节度,Zhenning Jun
+3776,101154,兴宁军节度,Xingning Jun
+3777,101155,兴国军节度,Xingguo Jun
+3778,101156,临海军节度,Linhai Jun
+3779,101157,义成军节度,Yicheng Jun
+3780,101158,瀛海军节度,Yinghai Jun
+3781,101159,泸川军节度,Luchuan Jun
+3782,101159,泸川军节度,Luchuan Jun
+3783,101160,江宁军节度,Jiangning Jun
+3784,101161,永兴军节度,Yongxing Jun
+3785,101162,归义军节度,Guiyi Jun
+3786,101163,武清军节度,Wuqing Jun
+3787,101164,武平军节度,Wuping Jun
+3788,101165,武定军节度,Wuding Jun
+3789,101165,武定军节度,Wuding Jun
+3790,101165,武定军节度,Wuding Jun
+3791,101166,武威军节度,Wuwei Jun
+3792,101167,梁山军节度,Liangshan Jun
+3793,101168,广济军节度,Guangji Jun
+3794,101169,广海军节度,Guanghai Jun
+3795,101170,平庐军节度,Pinglu Jun
+3796,101171,川昌军节度,Changchang Jun
+3797,101172,崇庆军节度,Chongqing Jun
+3798,101173,崇宁军节度,Chongning Jun
+3799,101174,山南军节度,Shannan Jun
+3800,101175,宁江军节度,Ningjiang Jun
+3801,101175,宁江军节度,Ningjiang Jun
+3802,101176,安武军节度,Anwu Jun
+3803,101177,安庆军节度,Anqing Jun
+3804,101178,安州军节度,Anzhou Jun
+3805,101179,威德军节度,Weide Jun
+3806,101180,天德军节度,Tiande Jun
+3807,101181,向德军节度,Xiangde Jun
+3808,101182,右德军节度,Youde Jun
+3809,101183,南平军节度,Nanping Jun
+3810,101184,南安军节度,Nan'an Jun
+3811,101185,保顺军节度,Baoshun Jun
+3812,101185,保顺军节度,Baoshun Jun
+3813,101186,保靖军节度,Baojing Jun
+3814,101187,保义军节度,Baoyi Jun
+3815,101188,保成军节度,Baocheng Jun
+3816,101189,保庆军节度,Baoqing Jun
+3817,101189,保庆军节度,Baoqing Jun
+3818,101190,保定军节度,Baoding Jun
+3819,101191,江州,Jiang Zhou
+3820,101191,江州,Jiang Zhou
+3821,101192,南恩州,Nanen Zhou
+3822,101193,北海军,Beihai jun
+3823,400105,武清军节度,Wuqing Junjiedu
+3824,400195,武昌军节度,Wuchang Junjiedu
+3825,400249,静江军节度,Jingjiang Junjiedu
