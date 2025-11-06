@@ -19,7 +19,13 @@
 ## **3.技术路线**
 <img width="2276" height="817" alt="image" src="https://github.com/user-attachments/assets/0077eb5d-1a3f-42cb-a494-cce99eec3a05" />
 
-## **4.系统界面视图**
+## **4.核心贡献**
+
+- 设计了针对LLM推理过程通用领域的可视分析方法，支持针对多轮LLM回答的综合可视分析，覆盖潜在的多样化解释；
+
+- 基于CBDB数据对LLM解决历史人物不确定性问题的专业领域提供支持，并提供推理路径交互与推理结果标注功能，支持专家与结果进行深入交叉验证。
+
+## **5.系统界面视图**
 <img width="2262" height="1254" alt="image" src="https://github.com/user-attachments/assets/78fbaf7e-e5a7-4ee5-96e5-e850fd34c3cd" />
 
 - (A)控制面板，(B)基础信息，(C) LLM多路径推理桑基图，(D)回答/链条统计信息可视化，(E)推理链条综合分析
@@ -42,8 +48,10 @@
 ### **- 桑基图分析示例**
 <img width="2329" height="1139" alt="image" src="https://github.com/user-attachments/assets/4710d6c2-bb1c-4eda-a510-dc2eae585b1e" />
 
-## **5.链条对比分析和标注示例**
+## **6.链条对比分析和标注示例**
 <img width="1318" height="953" alt="image" src="https://github.com/user-attachments/assets/d7b42614-7ffb-45a7-a763-850bdbc5f4ab" />
 
-## **6.作者于大会上作长文报告**
-![090e5de5c4de9d5379ca8dcb551c4ec0](https://github.com/user-attachments/assets/5e3db631-49ec-4b7e-acaf-024d1579a854)
+## **7.作者于大会上作长文报告**
+<img width="1509" height="1034" alt="image" src="https://github.com/user-attachments/assets/7fa8b5ed-099e-4cdd-8a65-3397a6434e69" />
+
+
